@@ -1,6 +1,7 @@
 * [Remote Control](/rc/index)
 * [Building](/building/index)
 * [Power & Batteries](/batteries/index)
+* [Flight Controllers](/flightcontrollers/index)
 * [Flying](/flying/index)
 * [Purchasing Parts](/purchase/index)
 * [Join the community](/community/index)
