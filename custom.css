@@ -17,3 +17,31 @@
   padding: 0 0 0px 10px;
 }
 
+#head h1 {
+  float: none;
+}
+
+#head ul.actions {
+  display: block;
+  float: none;
+  margin: 10px 0 0 -0.5em;
+}
+
+#wiki-footer {
+  overflow: hidden;
+  margin: 20px 0;
+}
+
+.has-sidebar #wiki-footer {
+  width: auto;
+}
+
+#wiki-footer #footer-content {
+  background-color: inherit;
+  border: none;
+  border-top: 1px solid #ddd;
+  padding: 1em;
+  display: block;
+  border-radius: 0 !important;
+}
+
