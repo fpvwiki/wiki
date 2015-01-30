@@ -45,3 +45,6 @@
   border-radius: 0 !important;
 }
 
+p:empty {
+  display: none;
+}
