@@ -6,4 +6,4 @@
 
 ## Local Groups
 
-* [FPVexplorers](http://www.meetup.com/FPVexplorers/), USA, California, San Francisco (East Bay)
+* [FPVexplorers](http://www.meetup.com/FPVexplorers/) (USA, California, San Francisco, East Bay)
