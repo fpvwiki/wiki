@@ -1,6 +1,0 @@
-* [Remote Control](rc/index)
-* [Building](building/index)
-* [Power & Batteries](batteries/index)
-* [Flying](flying/index)
-* [Purchasing Parts](purchase/index)
-
