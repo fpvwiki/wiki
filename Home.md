@@ -1,6 +1,6 @@
 # fpv.wiki
 
-This is a [[link|another page]] to another page.
+This is a [[link|another page]] to [[parts|parts/index]] page.
 
 [[/uploads/fatshark.jpg]]
 
