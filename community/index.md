@@ -1,7 +1,9 @@
-# FPV Community
+# FPV Communities
 
-## English
-
-### Forums
+## Forums
 
 * [RC Groups](http://www.rcgroups.com/forums)
+
+## Local Groups
+
+* [FPVexplorers](http://www.meetup.com/FPVexplorers/), USA, California, San Francisco (East Bay)
