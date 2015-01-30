@@ -13,6 +13,7 @@ TODO: verify & add location
 * [DP Cav](https://www.dpcav.com/xcart/home.php)
 * [FPV Ninjas](http://www.fpvninjas.com/)
 * [Helibatics](http://www.helibatics.com/)
+* [Hobby King](http://www.hobbyking.com)
 * [Hobby Partz](http://www.hobbypartz.com/)
 * [Hovership](http://shop.hovership.com/)
 * [Micro Motor Warehouse](http://micro-motor-warehouse.com/)
