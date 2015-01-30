@@ -1,3 +1,7 @@
 # FPV Community
 
-TODO
+## English
+
+### Forums
+
+* [RC Groups](http://www.rcgroups.com/forums)
