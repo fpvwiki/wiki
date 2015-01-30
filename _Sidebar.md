@@ -3,3 +3,4 @@
 * [Power & Batteries](batteries/index)
 * [Flying](flying/index)
 * [Purchasing Parts](purchase/index)
+* [Join the community](community/index)
