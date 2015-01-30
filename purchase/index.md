@@ -30,3 +30,7 @@ TODO: verify & add location
 ## Products
 
 Products designed and sold by their developers.
+
+* [Brain FPV](https://www.brainfpv.com/)
+* [Drone Kraft](http://www.dronekraft.io/)
+* [Drone Matters](http://www.dronematters.com/)
