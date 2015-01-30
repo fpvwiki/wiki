@@ -1,3 +1,3 @@
 # Parts
 
-[[parts/index/01-sherlock-magnifying-glass.jpg]]
+[[01-sherlock-magnifying-glass.jpg]]
