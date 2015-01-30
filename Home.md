@@ -21,7 +21,7 @@ If you are curious about FPV? Here are some YouTube videos that get people exite
 
 Here are the top level topics currently covered (or scheduled to be covered):
 
-* [Remote Control][rc/index]
-* [Building][building/index]
-* [Power & Batteries][batteries/index]
-* [Flying][flying/index]
+* [Remote Control](rc/index)
+* [Building](building/index)
+* [Power & Batteries](batteries/index)
+* [Flying](flying/index)
