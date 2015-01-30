@@ -25,3 +25,4 @@ Here are the top level topics currently covered (or scheduled to be covered):
 * [Building](building/index)
 * [Power & Batteries](batteries/index)
 * [Flying](flying/index)
+* [Purchasing Parts](purchase/index)
