@@ -1,3 +1,3 @@
 # Parts
 
-[[uploads/cute-kitten-playing.jpg]]
+[[parts/index/01-sherlock-magnifying-glass.jpg]]
