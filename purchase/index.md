@@ -1,5 +1,4 @@
 # Purchasing
-
 [[_TOC_]]
 
 ## General Retails
