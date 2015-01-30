@@ -1,1 +1,1 @@
-Sidebar
+[[include:_sidenav]]
