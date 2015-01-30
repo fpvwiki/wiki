@@ -16,9 +16,3 @@ If you are curious about FPV? Here are some YouTube videos that get people exite
 
 [youtube_fpv_racing]: https://www.youtube.com/embed/H19z1X3V4UQ
 [youtube_quadcopter_racing]: https://www.youtube.com/embed/H19z1X3V4UQ
-
-# TOC
-
-Here are the top level topics currently covered (or scheduled to be covered):
-
-[[include:_sidenav]]
