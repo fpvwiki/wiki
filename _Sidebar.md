@@ -1,3 +1,4 @@
+* [Glossary](/glossary)
 * [Remote Control](/rc/index)
 * [Building](/building/index)
 * [Power & Batteries](/batteries/index)
