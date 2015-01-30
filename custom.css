@@ -4,3 +4,12 @@
   padding: 0;
 }
 
+#sidebar-content {
+  padding: 5px 10px;
+}
+
+#sidebar-content ul {
+  margin: 0;
+  padding: 0 0 0px 10px;
+}
+
