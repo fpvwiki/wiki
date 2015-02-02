@@ -3,6 +3,7 @@
 * [Building](/building/index)
 * [Power & Batteries](/batteries/index)
 * [Flight Controllers](/flightcontrollers/index)
+* [Video](/video/index)
 * [Flying](/flying/index)
 * [Purchasing Parts](/purchase/index)
 * [Join the community](/community/index)
