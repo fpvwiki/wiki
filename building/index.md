@@ -1,3 +1,9 @@
 # Building an FPV drone
 
-* [[Basic 250 FPV quadcopter|/building/Basic 250 FPV quadcopter]]
+## Full Builds
+
+* [Basic 250 FPV quadcopter](/building/Basic 250 FPV quadcopter)
+
+## Parts
+
+* [All about props](/building/props)
