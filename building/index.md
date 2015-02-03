@@ -8,4 +8,7 @@
 
 ## Parts
 
-* [All about props](/building/props)
+* [Frames](/building/frames/index)
+* [ESCc](/building/escs/index)
+* [Motors](/building/motors/index)
+* [Props](/building/props/index)
