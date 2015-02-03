@@ -4,6 +4,7 @@
 
 * [FPV Lab](http://fpvlab.com/forums/)
 * [Hobby King](http://www.hobbyking.com/hobbyking/forum)
+* [Open RC Forums](http://openrcforums.com/forum/)
 * [RC Groups](http://www.rcgroups.com/forums)
 
 ## Facebook Groups
