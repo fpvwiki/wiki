@@ -13,7 +13,7 @@ TODO: verify & add location
 * [[DP Cav|/purchase/DP Cav]] ([www](https://www.dpcav.com/xcart/home.php))
 * [[FPV Ninjas|/purchase/FPV Ninjas]] ([www](http://www.fpvninjas.com/))
 * [[Helibatics|/purchase/Helibatics]] ([www](http://www.helibatics.com/))
-* [[[Hobby King|/purchase/Hobby King]] ([www](http://www.hobbyking.com))
+* [[Hobby King|/purchase/Hobby King]] ([www](http://www.hobbyking.com))
 * [[Hobby Partz|/purchase/Hobby Partz]] ([www](http://www.hobbypartz.com/))
 * [[Hovership|/purchase/Hovership]] ([www](http://shop.hovership.com/))
 * [[Micro Motor Warehouse|/purchase/Micro Motor Warehouse]] ([www](http://micro-motor-warehouse.com/))
@@ -28,14 +28,14 @@ TODO: verify & add location
 
 ### China/Asia Based Vendors
 
-* [Bang Good](http://www.banggood.com)
+* [[Bang Good|/purchase/Bang Good]] ([www](http://www.banggood.com))
 
 ## Products
 
 Products designed and sold by their developers.
 
-* [Brain FPV](https://www.brainfpv.com/)
-* [Drone Kraft](http://www.dronekraft.io/)
-* [Drone Matters](http://www.dronematters.com/)
-* [Game Of Drones](http://www.gameofdrones.biz/)
-* [Spec UAV](http://www.specuav.com/) (Offering high grade circular polarized antennas for FPV)
+* [[Brain FPV|/purchase/Brain FPV]] ([www](https://www.brainfpv.com/))
+* [[Drone Kraft|/purchase/Drone Kraft]] ([www](http://www.dronekraft.io/))
+* [[Drone Matters|/purchase/Drone Matters]] ([www](http://www.dronematters.com/))
+* [[Game Of Drones|/purchase/Game Of Drones]] ([www](http://www.gameofdrones.biz/))
+* [[Spec UAV|/purchase/Spec UAV]] ([www](http://www.specuav.com/)) Offering high grade circular polarized antennas for FPV
