@@ -11,6 +11,7 @@ Retails that generally carry a wide range of RC related goods.
 ### USA Based Vendors
 
 * [[Aloft Hobbies|/purchase/Aloft Hobbies]] ([www](http://www.alofthobbies.com/))
+* [[Buddy RC|/purchase/Buddy RC]] ([www](http://www.buddyrc.com/))
 * [[DP Cav|/purchase/DP Cav]] ([www](https://www.dpcav.com/xcart/home.php))
 * [[FPV Ninjas|/purchase/FPV Ninjas]] ([www](http://www.fpvninjas.com/))
 * [[Get FPV|/purchase/Get FPV]] ([www](http://www.getfpv.com/))
