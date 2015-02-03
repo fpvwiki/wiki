@@ -2,7 +2,9 @@
 
 ## Simulators
 
-* TODO: Add simulators
+* [[aerofly RC|/flying/aerofly RC]] (Win, Mac)
+* [[Phoenix|/flying/phoenix]] (Win)
+* [[Realflight|/flying/realflight]] (Win)
 
 TODO: add learning to fly, etc...
 
