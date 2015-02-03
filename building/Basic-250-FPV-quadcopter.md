@@ -11,7 +11,10 @@ This is a *comprehensive* parts and tools list. If you were to be placed in an e
 Basic list of components to get your flying if you have nothing.
 
 * Tools
-  * [[Soldering Iron|/soldering/irons]]
+  * [[Soldering Iron|/soldering/irons]] & related bits
+  * Wire Cutters
+  * Screwdrivers
+  * Pliers
 * Quadcopter Base Parts
   * [[Frame|/frames/index]] x1
   * [[ESCs|/escs/index]] x4
