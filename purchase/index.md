@@ -31,6 +31,7 @@ TODO: verify & add location
 
 * [[Bang Good|/purchase/Bang Good]] ([www](http://www.banggood.com))
 * [[RC Fans 88|/purchase/RC Fans 88]] ([www](http://www.rc-fans88.com/))
+* [[Surveil Zone|/purchase/Surveil Zone]] ([www](http://www.surveilzone.com/))
 
 ## Products
 
