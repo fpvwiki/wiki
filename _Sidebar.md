@@ -2,7 +2,7 @@
 * [Remote Control](/rc/index)
 * [Building](/building/index)
 * [Power & Batteries](/batteries/index)
-* [Flight Controllers](/flightcontrollers/index)
+* [Flight Controllers](/flight-controllers/index)
 * [Video](/video/index)
 * [Flying](/flying/index)
 * [Purchasing Parts](/purchase/index)
