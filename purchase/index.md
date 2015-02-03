@@ -12,6 +12,7 @@ TODO: verify & add location
 * [[Aloft Hobbies|/purchase/Aloft Hobbies]] ([www](http://www.alofthobbies.com/))
 * [[DP Cav|/purchase/DP Cav]] ([www](https://www.dpcav.com/xcart/home.php))
 * [[FPV Ninjas|/purchase/FPV Ninjas]] ([www](http://www.fpvninjas.com/))
+* [[Get FPV|/purchase/Get FPV]] ([www](http://www.getfpv.com/))
 * [[Helibatics|/purchase/Helibatics]] ([www](http://www.helibatics.com/))
 * [[Hobby King|/purchase/Hobby King]] ([www](http://www.hobbyking.com))
 * [[Hobby Partz|/purchase/Hobby Partz]] ([www](http://www.hobbypartz.com/))
@@ -29,6 +30,7 @@ TODO: verify & add location
 ### China/Asia Based Vendors
 
 * [[Bang Good|/purchase/Bang Good]] ([www](http://www.banggood.com))
+* [[RC Fans 88|/purchase/RC Fans 88] ([www](http://www.rc-fans88.com/))
 
 ## Products
 
