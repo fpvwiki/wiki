@@ -13,7 +13,7 @@ TODO: verify & add location
 * [DP Cav](https://www.dpcav.com/xcart/home.php)
 * [FPV Ninjas](http://www.fpvninjas.com/)
 * [Helibatics](http://www.helibatics.com/)
-* [Hobby King](http://www.hobbyking.com)
+* [[Hobby King|/purchase/Hobby King]] ([www](http://www.hobbyking.com))
 * [Hobby Partz](http://www.hobbypartz.com/)
 * [Hovership](http://shop.hovership.com/)
 * [Micro Motor Warehouse](http://micro-motor-warehouse.com/)
@@ -38,3 +38,4 @@ Products designed and sold by their developers.
 * [Drone Kraft](http://www.dronekraft.io/)
 * [Drone Matters](http://www.dronematters.com/)
 * [Game Of Drones](http://www.gameofdrones.biz/)
+* [Spec UAV](http://www.specuav.com/) (Offering high grade circular polarized antennas for FPV)
