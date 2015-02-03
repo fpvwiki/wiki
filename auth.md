@@ -1,6 +1,6 @@
 # Login To Edit
 
-Before you can edit the wiki please login with either your [Facebook](/auth/facebook) or [Google](/auth/google_oauth2) account.
+Before you can edit the wiki please login with either your **[Facebook](/auth/facebook)** or **[Google](/auth/google_oauth2)** account.
 
 ## Rules
 
