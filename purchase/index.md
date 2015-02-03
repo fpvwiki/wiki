@@ -30,7 +30,7 @@ TODO: verify & add location
 ### China/Asia Based Vendors
 
 * [[Bang Good|/purchase/Bang Good]] ([www](http://www.banggood.com))
-* [[RC Fans 88|/purchase/RC Fans 88] ([www](http://www.rc-fans88.com/))
+* [[RC Fans 88|/purchase/RC Fans 88]] ([www](http://www.rc-fans88.com/))
 
 ## Products
 
