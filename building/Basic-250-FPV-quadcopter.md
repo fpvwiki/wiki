@@ -19,10 +19,17 @@ Basic list of components to get your flying if you have nothing.
   * [[Flight Controller|/flight-controllers/index]] x1
   * [[Receiver|/receivers/index]] x1
   * [[Battery|/batteries/index]] x1
+  * [[Props|/props/index]] x4
+  * TODO: need to figure out minimum wiring & connectors
 * Other Important Things
   * [[Radio|/radios/index]] x1
   * [[Battery Charger|/chargers/index]] x1
 
 ### To Get FPV
 
-TODO
+* On The Quadcopter
+  * [[FPV Camera|/fpv-cameras/index]]
+  * [[Video Transmitter|/video-transmitters/index]]
+* FPV Experience
+  * [[Goggles|/googles/index]] or [[Small LCD Screen|/lcd-screens/index]]
+
