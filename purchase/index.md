@@ -38,8 +38,8 @@ Retails that generally carry a wide range of RC related goods.
 
 Products designed and sold by their developers.
 
-* [[Chicken Sashimi FPV|/purchase/Chicken Sashimi FPV]] ([www](http://chickensashimifpv.spreadshirt.com/))
 * [[Brain FPV|/purchase/Brain FPV]] ([www](https://www.brainfpv.com/))
+* [[Chicken Sashimi FPV|/purchase/Chicken Sashimi FPV]] ([www](http://chickensashimifpv.spreadshirt.com/))
 * [[Drone Kraft|/purchase/Drone Kraft]] ([www](http://www.dronekraft.io/))
 * [[Drone Matters|/purchase/Drone Matters]] ([www](http://www.dronematters.com/))
 * [[Game Of Drones|/purchase/Game Of Drones]] ([www](http://www.gameofdrones.biz/))
