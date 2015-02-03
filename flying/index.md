@@ -2,6 +2,8 @@
 
 ## Simulators
 
+RC simulators are a good way to practice flying when weather doesn't permit. 
+
 * [[Aerofly|/flying/aerofly]] (Win, Mac)
 * [[Phoenix|/flying/phoenix]] (Win)
 * [[Realflight|/flying/realflight]] (Win)
