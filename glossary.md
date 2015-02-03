@@ -12,7 +12,7 @@
 
 The majority of flight controllers also employ sensors to supplement their calculations. These range from simple gyroscopes for orientation to barometers for automatically holding altitudes. GPS can also be used for auto-pilot or fail-safe purposes. More on that shortly.
 
-See [[Flight Controllers|/flightcontrollers/index]] for more information.
+See [[Flight Controllers|/flight-controllers/index]] for more information.
 
 ## FPV
 
