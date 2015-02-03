@@ -1,13 +1,14 @@
 # Purchasing
+
 [[_TOC_]]
+
+TODO: create and fill in pages for each vendor
 
 ## General Retails
 
 Retails that generally carry a wide range of RC related goods.
 
 ### USA Based Vendors
-
-TODO: verify & add location
 
 * [[Aloft Hobbies|/purchase/Aloft Hobbies]] ([www](http://www.alofthobbies.com/))
 * [[DP Cav|/purchase/DP Cav]] ([www](https://www.dpcav.com/xcart/home.php))
@@ -37,6 +38,7 @@ TODO: verify & add location
 
 Products designed and sold by their developers.
 
+* [[Chicken Sashimi FPV|/purchase/Chicken Sashimi FPV]] ([www](http://chickensashimifpv.spreadshirt.com/))
 * [[Brain FPV|/purchase/Brain FPV]] ([www](https://www.brainfpv.com/))
 * [[Drone Kraft|/purchase/Drone Kraft]] ([www](http://www.dronekraft.io/))
 * [[Drone Matters|/purchase/Drone Matters]] ([www](http://www.dronematters.com/))
