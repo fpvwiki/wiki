@@ -1,1 +1,1 @@
-[[/batteries/wiring/wire-gauge.jpg]]
+[[/batteries/Wiring/wire-gauge.jpg]]
