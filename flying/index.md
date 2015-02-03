@@ -2,7 +2,7 @@
 
 ## Simulators
 
-* [[aerofly RC|/flying/aerofly RC]] (Win, Mac)
+* [[Aerofly|/flying/aerofly]] (Win, Mac)
 * [[Phoenix|/flying/phoenix]] (Win)
 * [[Realflight|/flying/realflight]] (Win)
 
