@@ -8,7 +8,9 @@
 
 ## Parts
 
-* [Frames](/building/frames/index)
-* [ESCc](/building/escs/index)
-* [Motors](/building/motors/index)
-* [Props](/building/props/index)
+* [ESCc](/escs/index)
+* [Flight Controllers](/flight-controllers/index)
+* [FPV Cameras](/fpv-cameras/index)
+* [Frames](/frames/index)
+* [Motors](/motors/index)
+* [Props](/props/index)
