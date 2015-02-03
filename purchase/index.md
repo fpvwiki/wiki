@@ -9,22 +9,22 @@ Retails that generally carry a wide range of RC related goods.
 
 TODO: verify & add location
 
-* [Aloft Hobbies](http://www.alofthobbies.com/)
-* [DP Cav](https://www.dpcav.com/xcart/home.php)
-* [FPV Ninjas](http://www.fpvninjas.com/)
-* [Helibatics](http://www.helibatics.com/)
-* [[Hobby King|/purchase/Hobby King]] ([www](http://www.hobbyking.com))
-* [Hobby Partz](http://www.hobbypartz.com/)
-* [Hovership](http://shop.hovership.com/)
-* [Micro Motor Warehouse](http://micro-motor-warehouse.com/)
-* [Multirotor Super Store](http://www.multirotorsuperstore.com/)
-* [My RC Mart](http://www.myrcmart.com/index.php)
-* [RC Toys](http://www.rctoys.com/)
-* [Readymade RC](http://www.readymaderc.com/store)
-* [Simple Copter](http://www.simplecopter.com/)
-* [U Buy A Drone](http://ubuyadrone.com/)
-* [Voodoo Quads](http://www.voodooquads.com/)
-* [XHover](http://xhover.com/)
+* [[Aloft Hobbies|/purchase/Aloft Hobbies]] ([www](http://www.alofthobbies.com/))
+* [[DP Cav|/purchase/DP Cav]] ([www](https://www.dpcav.com/xcart/home.php))
+* [[FPV Ninjas|/purchase/FPV Ninjas]] ([www](http://www.fpvninjas.com/))
+* [[Helibatics|/purchase/Helibatics]] ([www](http://www.helibatics.com/))
+* [[[Hobby King|/purchase/Hobby King]] ([www](http://www.hobbyking.com))
+* [[Hobby Partz|/purchase/Hobby Partz]] ([www](http://www.hobbypartz.com/))
+* [[Hovership|/purchase/Hovership]] ([www](http://shop.hovership.com/))
+* [[Micro Motor Warehouse|/purchase/Micro Motor Warehouse]] ([www](http://micro-motor-warehouse.com/))
+* [[Multirotor Super Store|/purchase/Multirotor Super Store]] ([www](http://www.multirotorsuperstore.com/))
+* [[My RC Mart|/purchase/My RC Mart]] ([www](http://www.myrcmart.com/index.php))
+* [[RC Toys|/purchase/RC Toys]] ([www](http://www.rctoys.com/))
+* [[Readymade RC|/purchase/Readymade RC]] ([www](http://www.readymaderc.com/store))
+* [[Simple Copter|/purchase/Simple Copter]] ([www](http://www.simplecopter.com/))
+* [[U Buy A Drone|/purchase/U Buy A Drone]] ([www](http://ubuyadrone.com/))
+* [[Voodoo Quads|/purchase/Voodoo Quads]] ([www](http://www.voodooquads.com/))
+* [[XHover|/purchase/XHover]] ([www](http://xhover.com/))
 
 ### China/Asia Based Vendors
 
