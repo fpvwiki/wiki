@@ -14,5 +14,5 @@ TODO: add learning to fly, etc...
 
 * [Solar Data](http://www.n3kl.org/sun/noaa.html)
 * [[Locating Lost Drones|/flying/Locating Lost Drones]]
-  
-  TODO: Explain how solar interference can affect RC radios.
+ 
+TODO: Explain how solar interference can affect RC radios.
