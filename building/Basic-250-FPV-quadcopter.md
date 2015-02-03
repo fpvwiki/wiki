@@ -36,3 +36,9 @@ Basic list of components to get your flying if you have nothing.
 * FPV Experience
   * [[Goggles|/googles/index]] or [[Small LCD Screen|/lcd-screens/index]]
 
+## Wiring Up
+
+TODO: add more info
+
+[[/building/Basic-250-FPV-quadcopter/generic-quadcopter-diagram.png]]
+
