@@ -2,4 +2,6 @@
 
 Powering a quadcopter deserves its own section because of how unexpectedly complex this subject can be for a newcomer.
 
+* [[Wiring|/batteries/Wiring]]
+
 TODO: add more
