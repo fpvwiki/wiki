@@ -10,22 +10,17 @@ This is a *comprehensive* parts and tools list. If you were to be placed in an e
 
 Basic list of components to get your flying if you have nothing.
 
-#### Tools
-
-* [[Soldering Iron|/soldering/irons]]
-
-#### Quadcopter
-
-* [[Frame|/frames/index]] x1
-* [[ESCs|/escs/index]] x4
-* [[Motors|/motors/index]] x4
-* [[Flight Controller|/flight-controllers/index]] x1
-* [[Receiver|/receivers/index]] x1
-* [[Battery|/batteries/index]] x1
-
-#### Other
-
-* [[Radio|/radios/index]] x1
+* Tools
+  * [[Soldering Iron|/soldering/irons]]
+* Quadcopter
+  * [[Frame|/frames/index]] x1
+  * [[ESCs|/escs/index]] x4
+  * [[Motors|/motors/index]] x4
+  * [[Flight Controller|/flight-controllers/index]] x1
+  * [[Receiver|/receivers/index]] x1
+  * [[Battery|/batteries/index]] x1
+* Other
+  * [[Radio|/radios/index]] x1
 
 ### To Get FPV
 
