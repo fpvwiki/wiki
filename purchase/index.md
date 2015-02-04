@@ -4,9 +4,9 @@
 
 TODO: create and fill in pages for each vendor
 
-## General Retails
+## General RC Retails
 
-Retails that generally carry a wide range of RC related goods.
+Retails that carry a wide range of RC related stuff.
 
 ### USA Based Vendors
 
