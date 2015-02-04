@@ -1,6 +1,6 @@
 # Locating Lost Drones
 
-There are various devices for helping you locate where your multicopter has crashed:
+There are various devices for helping you locate where your multicopter has crashed. You would be surprised how hard it can be to find a small drone in a small park with only 6" of grass.
 
 ## LOC8TOR
 
