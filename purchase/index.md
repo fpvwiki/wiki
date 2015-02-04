@@ -22,7 +22,7 @@ Retails that carry a wide range of RC related stuff.
 * [[Horizon Hobby|/purchase/Horizon Hobby]] ([www](https://www.horizonhobby.com/))
 * [[Hovership|/purchase/Hovership]] ([www](http://shop.hovership.com/))
 * [[Micro Motor Warehouse|/purchase/Micro Motor Warehouse]] ([www](http://micro-motor-warehouse.com/))
-* [[Multirotor Super Store|/purchase/Multirotor Super Store]] ([www](http://www.multirotorsuperstore.com/))
+* [[Multirotor Super Store|/purchase/Multirotor Super Store]] ([www](http://www.multirotorsuperstore.com/), Bitcoin)
 * [[My RC Mart|/purchase/My RC Mart]] ([www](http://www.myrcmart.com/index.php))
 * [[RC Toys|/purchase/RC Toys]] ([www](http://www.rctoys.com/))
 * [[Readymade RC|/purchase/Readymade RC]] ([www](http://www.readymaderc.com/store))
