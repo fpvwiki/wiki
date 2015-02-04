@@ -19,6 +19,7 @@ Retails that generally carry a wide range of RC related goods.
 * [[Helibatics|/purchase/Helibatics]] ([www](http://www.helibatics.com/))
 * [[Hobby King|/purchase/Hobby King]] ([www](http://www.hobbyking.com))
 * [[Hobby Partz|/purchase/Hobby Partz]] ([www](http://www.hobbypartz.com/))
+* [[Horizon Hobby|/purchase/Horizon Hobby]] ([www](https://www.horizonhobby.com/))
 * [[Hovership|/purchase/Hovership]] ([www](http://shop.hovership.com/))
 * [[Micro Motor Warehouse|/purchase/Micro Motor Warehouse]] ([www](http://micro-motor-warehouse.com/))
 * [[Multirotor Super Store|/purchase/Multirotor Super Store]] ([www](http://www.multirotorsuperstore.com/))
