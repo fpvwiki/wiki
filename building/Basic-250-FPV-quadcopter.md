@@ -23,6 +23,7 @@ Basic list of components to get your flying if you have nothing.
   * [[Receiver|/receivers/index]] x1
   * [[Battery|/batteries/index]] x1
   * [[Props|/props/index]] x4
+  * [[XT60 Pigtail|/batteries/XT60 Pigtail]] x1
   * TODO: need to figure out minimum wiring & connectors
 * Other Important Things
   * [[Radio|/radios/index]] x1
