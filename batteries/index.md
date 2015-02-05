@@ -8,8 +8,9 @@ Powering a quadcopter deserves its own section because of how unexpectedly compl
 
 ## Power Distribution Boards
 
-* [[5V 12V Adjustable Voltage Dual BEC Output Board ESC Distribution Connection/batteries/UL09500
-## Wires & Connectors]] (UL09500)
+* [[5V 12V Adjustable Voltage Dual BEC Output Board ESC Distribution Connection|/batteries/UL09500]] (UL09500)
+
+## Wires & Connectors
 
 * [[Wiring|/batteries/Wiring]]
 
