@@ -7,7 +7,7 @@ function processExternalAnchors() {
       return false;
     }
 
-    if ($a.attr('data-no-external') === 'true')) {
+    if ($a.attr('data-no-external') === 'true') {
       return false;
     }
 
