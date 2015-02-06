@@ -1,8 +1,12 @@
 # Soldering
 
-## Basics
+## Essentials
 
-* [[Soldering Irons]]
+* [[Soldering Iron]]
+* [[Flux Pen]]
+* [[Solder]]
+* [[Shrink Tubing]]
+* [[Wire Stripper]]
 
 ## Tips & Tricks
 
