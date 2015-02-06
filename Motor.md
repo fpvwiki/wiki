@@ -1,5 +1,7 @@
 # Motor
 
+[[/uploads/motor-generic.jpg]]
+
 ## Understanding Motor Labeling
 
 A motor name can be confusing at first, but everything is meant to tell you something very specific about it. Lets break down and use [Emax PM1806-2300Kv Brushless Multi-Rotor Motor Set 1 CW 1 CCW][example] as an example.
