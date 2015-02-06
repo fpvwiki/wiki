@@ -21,9 +21,10 @@ Basic list of components to get your flying if you have nothing.
   * [[Motors]] x4
   * [[Flight Controller]] x1
   * [[Receiver]] x1
-  * [[Battery]] x1
-  * [[Props]] x4
+  * [[Battery]] [[3S]] x1
+  * [[Props]] [[5030]] x4
   * [[XT60 Pigtail]] x1
+  * [[PDB]] x1 (optional)
   * TODO: need to figure out minimum wiring & connectors
 * **Other Important Things**
   * [[Radio]] x1
