@@ -3,7 +3,11 @@ function processExternalAnchors() {
     var $a = $(this);
 
     // don't apply to links that have youtube images
-    if($a.find('img[src^="http://i1.ytimg.com"]').length) {
+    if ($a.find('img[src^="http://i1.ytimg.com"]').length) {
+      return false;
+    }
+
+    if ($a.attr('data-no-external') === 'true')) {
       return false;
     }
 
