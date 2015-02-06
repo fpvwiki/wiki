@@ -28,7 +28,7 @@ Basic list of components to get your flying if you have nothing.
   * Battery Strap x1
   * Sticky Velcro 1" wide (2-3")
   * Small ZIP ties (lots)
-  * Shrink Tubing (various sizes)
+  * [[Shrink Tubing]] (various sizes)
   * TODO: need to figure out minimum wiring & connectors
 * **Other Important Things**
   * [[Radio]] x1
