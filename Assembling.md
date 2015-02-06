@@ -18,6 +18,7 @@ The list of type of parts involved in building a multicopter.
 * [[Prop]]
 * [[Receiver]]
 * [[Battery]]
+* Wire [[Connector]]s
 
 ## FPV Parts
 
