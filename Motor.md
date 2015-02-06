@@ -1,6 +1,6 @@
 # Motor
 
-[[/uploads/motor-generic.jpg]]
+[[/uploads/motor-generic-02.jpg]]
 
 ## Understanding Motor Labeling
 
