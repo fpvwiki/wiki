@@ -21,7 +21,7 @@
 > 
 > It was intended to be a short video but, as usual, it became a long one.
 
-# HowTo SMD Soldering
+### HowTo SMD Soldering
 
 [![](http://i1.ytimg.com/vi/z7Tu8NXu5UA/0.jpg)](https://www.youtube.com/watch?v=z7Tu8NXu5UA)
 
