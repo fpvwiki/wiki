@@ -10,12 +10,12 @@ This is a *comprehensive* parts and tools list. If you were to be placed in an e
 
 Basic list of components to get your flying if you have nothing.
 
-* Tools
+* **Tools**
   * [[Soldering Iron|/soldering/irons]] & related bits
   * Wire Cutters
   * Screwdrivers
   * Pliers
-* Quadcopter Base Parts
+* **Quadcopter Parts**
   * [[Frame|/frames/index]] x1
   * [[ESCs|/escs/index]] x4
   * [[Motors|/motors/index]] x4
@@ -25,16 +25,16 @@ Basic list of components to get your flying if you have nothing.
   * [[Props|/props/index]] x4
   * [[XT60 Pigtail|/batteries/XT60 Pigtail]] x1
   * TODO: need to figure out minimum wiring & connectors
-* Other Important Things
+* **Other Important Things**
   * [[Radio|/radios/index]] x1
   * [[Battery Charger|/chargers/index]] x1
 
 ### To Get FPV
 
-* On The Quadcopter
+* **On The Quadcopter**
   * [[FPV Camera|/fpv-cameras/index]]
   * [[Video Transmitter|/video-transmitters/index]]
-* FPV Experience
+* **FPV Experience**
   * [[Goggles|/googles/index]] or [[Small LCD Screen|/lcd-screens/index]]
 
 ## Wiring Up
