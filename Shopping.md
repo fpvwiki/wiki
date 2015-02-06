@@ -47,4 +47,5 @@ Products designed and sold by their developers.
 * [[Drone Kraft]] ([www](http://www.dronekraft.io/))
 * [[Drone Matters]] ([www](http://www.dronematters.com/))
 * [[Game Of Drones]] ([www](http://www.gameofdrones.biz/))
+* [[Quad Revo]] ([www](http://quadrevo.com/))
 * [[Spec UAV]] ([www](http://www.specuav.com/)) Offering high grade circular polarized antennas for FPV
