@@ -7,6 +7,7 @@
 * [[Solder]]
 * [[Shrink Tubing]]
 * [[Wire Stripper]]
+* [[Third Hand]]
 
 ## Tips & Tricks
 
