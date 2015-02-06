@@ -2,9 +2,10 @@
 
 [[_TOC_]]
 
-## Full Builds
+## Guides
 
 * [[Basic 250 FPV quadcopter]]
+* [[Soldering]]
 
 ## Multicopter Parts
 
