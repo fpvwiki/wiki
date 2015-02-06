@@ -17,7 +17,21 @@
 
 [![](http://i1.ytimg.com/vi/nS0bEuYPJoA/0.jpg)][soldering-basics]
 
+> Here are is some basic info for those who fly RC planes and want to know a little more about the theory and practice of soldering.
+> 
+> It was intended to be a short video but, as usual, it became a long one.
+
+[HowTo SMD Soldering][howto-smd] by SparkysWidgets 
+
 [soldering-basics]: https://www.youtube.com/watch?v=nS0bEuYPJoA
+
+[![](http://i1.ytimg.com/vi/z7Tu8NXu5UA/0.jpg)][howto-smd]
+
+> An in depth tutorial showing how to solder surface mount parts. Covering the tools, techniques and tips that can really help learn how to properly solder electronics! If you are new to soldering this video should have you soldering SMD components in no time!
+>
+> With just a bit of pratice it becomes much easier to solder SMD then through hole soldering. As shown in the video the main key is lots of flux, but be sure to properly clean your work once you are finished soldering it.
+
+[howto-smd]: https://www.youtube.com/watch?v=z7Tu8NXu5UA
 
 ## Tips & Tricks
 
