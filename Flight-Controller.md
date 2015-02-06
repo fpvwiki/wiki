@@ -1,4 +1,4 @@
-# Flight Controllers
+# Flight Controller (FC)
 
 <img src="/uploads/flight-controller-generic.jpg" align="right" width="150" /> A Flight Controller (FC) is a small circuit board of varying complexity. Its function is to direct the RPM of each motor in response to input. A command from the pilot for the multi-rotor to move forward is fed into the flight controller, which determines how to manipulate the motors accordingly.
 
