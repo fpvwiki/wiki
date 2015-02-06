@@ -29,6 +29,7 @@ Basic list of components to get your flying if you have nothing.
   * Sticky Velcro 1" wide (2-3")
   * Small ZIP ties (lots)
   * [[Shrink Tubing]] (various sizes)
+  * 3mm Nylon Locknut x4
   * TODO: need to figure out minimum wiring & connectors
 * **Other Important Things**
   * [[Radio]] x1
