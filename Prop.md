@@ -2,6 +2,7 @@
 
 [[/uploads/props-generic.jpg]]
 
+TODO: add general info
 
 ## [5 inch prop tests, at hover power][5_inch_test]
 
