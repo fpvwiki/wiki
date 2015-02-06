@@ -1,4 +1,4 @@
-# Motors
+# Motor
 
 ## Understanding Motor Labeling
 
