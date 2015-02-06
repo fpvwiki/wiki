@@ -1,5 +1,7 @@
 # Soldering
 
+[[_TOC_]]
+
 ## Essentials
 
 * [[Soldering Iron]]
