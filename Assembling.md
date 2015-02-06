@@ -10,13 +10,13 @@
 
 The list of type of parts involved in building a multicopter.
 
-* [[ESCc]]
-* [[Flight Controllers]]
-* [[Frames]]
-* [[Motors]]
-* [[Props]]
-* [[Receivers]]
-* [[Batteries]]
+* [[ESC]]
+* [[Flight Controller]]
+* [[Frame]]
+* [[Motor]]
+* [[Prop]]
+* [[Receiver]]
+* [[Battery]]
 
 ## FPV Parts
 
