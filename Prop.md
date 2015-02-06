@@ -1,5 +1,8 @@
 # Props
 
+[[/uploads/props-generic.jpg]]
+
+
 ## [5 inch prop tests, at hover power][5_inch_test]
 
 [![](http://i1.ytimg.com/vi/9EU-6Qui0rA/0.jpg)][5_inch_test]
