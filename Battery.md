@@ -1,5 +1,7 @@
 # Batteries
 
+[[/uploads/battery-generic.jpg]]
+
 Powering a quadcopter deserves its own section because of how unexpectedly complex this subject can be for a newcomer.
 
 ## LiPOs
