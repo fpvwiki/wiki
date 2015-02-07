@@ -9,3 +9,4 @@ The majority of flight controllers also employ sensors to supplement their calcu
 * [[CC3D]]
 * [[KK2]]
 * [[Naze32]]
+* [[Vector]]
