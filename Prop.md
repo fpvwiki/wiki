@@ -6,7 +6,7 @@ TODO: add general info
 
 ## 5 inch prop tests, at hover power
 
-[![](http://i1.ytimg.com/vi/9EU-6Qui0rA/0.jpg)][https://www.youtube.com/watch?v=9EU-6Qui0rA]
+[![](http://i1.ytimg.com/vi/9EU-6Qui0rA/0.jpg)](https://www.youtube.com/watch?v=9EU-6Qui0rA)
 
 > After I tested the maximum thrust and efficiencies of several 5 inch mini quadcopter props, viewers suggested that I test them again at hover-power levels, so I did and here are the results.
 >
