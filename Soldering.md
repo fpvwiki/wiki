@@ -21,6 +21,14 @@
 > 
 > It was intended to be a short video but, as usual, it became a long one.
 
+### Solder & Flux
+
+[![](http://i1.ytimg.com/vi/vIT4ra6Mo0s/0.jpg)](https://www.youtube.com/watch?v=vIT4ra6Mo0s)
+
+> Basic Soldering for Electronics Lesson 1 - "Solder and Flux" produced by PACE, Inc.
+
+This is a pretty awesome, very old school but just as relevant today as it was back then.
+
 ### HowTo SMD Soldering
 
 [![](http://i1.ytimg.com/vi/z7Tu8NXu5UA/0.jpg)](https://www.youtube.com/watch?v=z7Tu8NXu5UA)
