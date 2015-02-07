@@ -27,7 +27,7 @@
 
 > Basic Soldering for Electronics Lesson 1 - "Solder and Flux" produced by PACE, Inc.
 
-This is a pretty awesome, very old school but just as relevant today as it was back then.
+This video is pretty old, but just as relevant today as it was back then. Enjoyed watching it very much!
 
 ### HowTo SMD Soldering
 
