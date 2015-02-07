@@ -27,3 +27,9 @@ See [[Flight Controllers]] for more information.
 ## Tricopter
 
 ## Tx
+
+## UBEC
+
+A Universal Battery Elimination Circuit, or UBEC, allows you to regulate the voltage of your battery down to another voltage. They are commonly used to provide 5V for flight controllers and radio receivers.
+
+Available in 3V, 5V, 6V, 7V, 9V and 12V, UBEC's are commonly used to power additional gear on your craft like lighting systems, video transmitters and cameras from your flight battery.
