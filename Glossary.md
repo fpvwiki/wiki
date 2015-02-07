@@ -16,6 +16,8 @@ See [[Flight Controllers]] for more information.
 
 ## FPV
 
+First-person view (FPV), also known as remote-person view (RPV), or simply video piloting, is a method used to control a radio-controlled vehicle from the driver or pilot's view point. Most commonly it is used to pilot an unmanned aerial vehicle (UAV) or a radio-controlled aircraft.
+
 ## Frame
 
 ## Motor
