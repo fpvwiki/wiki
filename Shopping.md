@@ -46,6 +46,7 @@ Products designed and sold by their developers.
 * [[Chicken Sashimi FPV]] ([www](http://chickensashimifpv.spreadshirt.com/))
 * [[Drone Kraft]] ([www](http://www.dronekraft.io/))
 * [[Drone Matters]] ([www](http://www.dronematters.com/))
+* [[Eagle Tree Systems]] ([www](http://www.eagletreesystems.com/))
 * [[Game Of Drones]] ([www](http://www.gameofdrones.biz/))
 * [[Quad Revo]] ([www](http://quadrevo.com/), [[Frames]], [[PDB]]s)
 * [[Smart FPV]] ([www](http://www.smartfpv.com/store/), Video & Camera stuff)
