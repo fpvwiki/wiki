@@ -6,8 +6,11 @@ There are various devices for helping you locate where your multicopter has cras
 
 http://www.loc8tor.com/everyday/loc8tor-lite.html/
 
-[Loc8tor Field Test][loc8tor-1]
+### Loc8tor Field Test
 
-[![](http://i1.ytimg.com/vi/fpvgFUxT5DA/0.jpg)][loc8tor-1]
+<<YouTube(fpvgFUxT5DA)>>
 
-[loc8tor-1]: https://www.youtube.com/watch?v=fpvgFUxT5DA
+> The first time I've ever had to use my Loc8tor to find a missing model.
+>
+> A crash pulled the power cable out of the flight controller, rendering my discovery buzzer useless. I'm sure I would have found the hex eventually but the loc8tor tag made it a lot easier!
+
