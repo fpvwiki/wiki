@@ -6,13 +6,10 @@
 
 If you are curious about FPV? Here are some YouTube videos that get people exited and often completely obsessed with FPV flying.
 
-### [FPV Racing - Crash Session!!!][youtube_fpv_racing]
+### FPV Racing - Crash Session!!!
 
-[![](http://i1.ytimg.com/vi/NsxyV-kgfio/0.jpg)][youtube_fpv_racing]
+<<YouTube(NsxyV-kgfio)>>
 
-### [Quadcopter Racing with First Person Video!][youtube_quadcopter_racing]
+### Quadcopter Racing with First Person Video!
 
-[![](http://i1.ytimg.com/vi/H19z1X3V4UQ/0.jpg)][youtube_quadcopter_racing]
-
-[youtube_fpv_racing]: https://www.youtube.com/embed/H19z1X3V4UQ
-[youtube_quadcopter_racing]: https://www.youtube.com/embed/H19z1X3V4UQ
+<<YouTube(H19z1X3V4UQ)>>
