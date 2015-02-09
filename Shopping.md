@@ -49,6 +49,6 @@ Products designed and sold by their developers.
 * [[Drone Matters]] ([www](http://www.dronematters.com/))
 * [[Eagle Tree Systems]] ([www](http://www.eagletreesystems.com/))
 * [[Game Of Drones]] ([www](http://www.gameofdrones.biz/))
-* [[Quad Revo]] ([www](http://quadrevo.com/), [[Frames]], [[PDB]]s)
+* [[Quad Revo]] ([www](http://quadrevo.com/), [[Frame]]s, [[PDB]]s)
 * [[Smart FPV]] ([www](http://www.smartfpv.com/store/), Video & Camera stuff)
 * [[Spec UAV]] ([www](http://www.specuav.com/)) Offering high grade circular polarized antennas for FPV
