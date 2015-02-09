@@ -8,7 +8,24 @@ TODO: create and fill in pages for each vendor
 
 Retails that carry a wide range of RC related stuff.
 
-### USA Based Vendors
+### Canada
+
+* [[Flite Lab]] ([www](http://flitelab.com))
+
+### France
+
+* [[Studio Sport]] ([www](http://www.studiosport.fr))
+
+### Germany
+
+* [[Eye Fly]] ([www](http://www.eyefly.info))
+* [[FPV 1]] ([www](http://www.fpv1.de))
+
+### UK
+
+* [[First Person View]] ([www](http://www.firstpersonview.co.uk))
+
+### USA
 
 * [[Aloft Hobbies]] ([www](http://www.alofthobbies.com/))
 * [[Buddy RC]] ([www](http://www.buddyrc.com/))
