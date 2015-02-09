@@ -15,7 +15,7 @@
 
 ### Soldering basics for RC planes
 
-[![](http://i1.ytimg.com/vi/nS0bEuYPJoA/0.jpg)](https://www.youtube.com/watch?v=nS0bEuYPJoA)
+<<YouTube(nS0bEuYPJoA)>>
 
 > Here are is some basic info for those who fly RC planes and want to know a little more about the theory and practice of soldering.
 > 
@@ -23,7 +23,7 @@
 
 ### Solder & Flux
 
-[![](http://i1.ytimg.com/vi/vIT4ra6Mo0s/0.jpg)](https://www.youtube.com/watch?v=vIT4ra6Mo0s)
+<<YouTube(vIT4ra6Mo0s)>>
 
 > Basic Soldering for Electronics Lesson 1 - "Solder and Flux" produced by PACE, Inc.
 
@@ -31,7 +31,7 @@ This video is pretty old, but just as relevant today as it was back then. Enjoye
 
 ### HowTo SMD Soldering
 
-[![](http://i1.ytimg.com/vi/z7Tu8NXu5UA/0.jpg)](https://www.youtube.com/watch?v=z7Tu8NXu5UA)
+<<YouTube(z7Tu8NXu5UA)>>
 
 > An in depth tutorial showing how to solder surface mount parts. Covering the tools, techniques and tips that can really help learn how to properly solder electronics! If you are new to soldering this video should have you soldering SMD components in no time!
 >
