@@ -1,6 +1,8 @@
 # Goggles
 
 * [[Carl Zeiss Cinemizer OLED|Cinemizer]]
+* [[FatShark]]
+* [[Headplay]]
 * [[Quanum DIY FPV Goggles|Quanum]]
 
 ## DIY
