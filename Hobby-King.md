@@ -1,8 +1,8 @@
 # Hobby King
 
-http://www.hobbyking.com/
-
 ## Who are we?
+
+http://www.hobbyking.com/
 
 <img src="/uploads/hobbyking-logo.png" align="right" /> If you love Radio Control products, then we're just like you!
 
