@@ -63,6 +63,7 @@ Products designed and sold by their developers.
 
 * [[Brain FPV]] ([www](https://www.brainfpv.com/))
 * [[Chicken Sashimi FPV]] ([www](http://chickensashimifpv.spreadshirt.com/))
+* [[Dimension Engineering]] ([www](https://www.dimensionengineering.com/)) Robotics & Power Electronics.
 * [[Drone Kraft]] ([www](http://www.dronekraft.io/))
 * [[Drone Matters]] ([www](http://www.dronematters.com/))
 * [[Eagle Tree Systems]] ([www](http://www.eagletreesystems.com/))
