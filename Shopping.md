@@ -42,6 +42,7 @@ Retails that carry a wide range of RC related stuff.
 * [[Multirotor Super Store]] ([www](http://www.multirotorsuperstore.com/), Bitcoin)
 * [[Multirotor Mania]] ([www](http://multirotormania.com/))
 * [[My RC Mart]] ([www](http://www.myrcmart.com/index.php))
+* [[My Air Bot]] ([www](myairbot.com))
 * [[RC Toys]] ([www](http://www.rctoys.com/))
 * [[Readymade RC]] ([www](http://www.readymaderc.com/store))
 * [[Ready To Fly Quads]] ([www](http://www.readytoflyquads.com/))
