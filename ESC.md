@@ -2,7 +2,7 @@
 
 [[/uploads/esc-generic.jpg]]
 
-TODO: add info
+BEC stands for **Battery Eliminator Circuit**. In the old days of electric flight you had to use a separate 4.8V battery pack to power your receiver and servos. As the hobby evolved, speed controls started to include Battery Eliminator Circuits to power your receiver and servos, allowing you to get rid of the extra receiver battery pack.
 
 ## What's inside: ESCs
 
