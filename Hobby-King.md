@@ -4,7 +4,7 @@ http://www.hobbyking.com/
 
 ## Who are we?
 
-<img src="/uploads/Hobby-King/hobbyking-logo.png" align="right" /> If you love Radio Control products, then we're just like you!
+<img src="/uploads/hobbyking-logo.png" align="right" /> If you love Radio Control products, then we're just like you!
 
 Passion, value and service drive us to bring you the very latest at the best price possible. We're always developing and sourcing new model products and then bringing them to you at the lowest price possible while maintaining quality, performance and service.
 
