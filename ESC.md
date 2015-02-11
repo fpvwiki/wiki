@@ -16,7 +16,7 @@ BEC stands for **Battery Eliminator Circuit**. In the old days of electric fligh
 
 ### BEC
 
-* The BEC on the [[ESC]] can supply power to the [[Flight Controller]] which in turn powers [[Receiver]] which can generally take only 5V. For example, [[Naze32]] can take up to 16V which it will directly pass to the [[Receiver]] (and burn it if it's more than 5V). If your [[ESC]]s don't have BEC, you can add a separate BEC, otherwise known as a [[Voltage Regulator]] either before [[Flight Controller]] or before the [[Receiver]].
+* The BEC on the [[ESC]] can supply power to the [[Flight Controller]] which in turn powers the [[Receiver]] which can generally take only 5V. For example, [[Naze32]] can take up to 16V which it will directly pass to the [[Receiver]] (and burn it if it's more than 5V). If your [[ESC]]s don't have BEC, you can add a separate BEC, otherwise known as a [[Voltage Regulator]] either before [[Flight Controller]] or before the [[Receiver]].
 
 * [To BEC or Not To BEC](http://www.stefanv.com/electronics/qf200105.html)
   
