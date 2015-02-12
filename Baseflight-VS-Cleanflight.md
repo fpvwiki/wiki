@@ -1,12 +1,8 @@
 # Baseflight VS Cleanflight
 
-## History
+## Baseflight vs CleanFlight, facts & proofs [DRAMA]
 
-[This post on Reddit](https://www.reddit.com/r/Multicopter/comments/2qabqh/baseflight_vs_cleanflight_facts_proofs_drama/) pretty much sums up why Cleanflight is the right choice today (included below).
-
-### Baseflight vs CleanFlight, facts & proofs [DRAMA]
-
-(by cTn-dev)
+(by cTn-dev, [source](https://www.reddit.com/r/Multicopter/comments/2qabqh/baseflight_vs_cleanflight_facts_proofs_drama/))
 
 Hi, I am pretty sure most of you heard of Baseflight (the nifty firmware running on the so popular naze boards). Some of you probably also heard, or will hear about CleanFlight, which tries to advertise it self as "Clean-code version of baseflight flight-controller".
  
