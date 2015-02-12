@@ -1,5 +1,7 @@
 # Motor
 
+[[_TOC_]]
+
 [[/uploads/motor-generic-02.jpg]]
 
 ## Understanding Motor Labeling
