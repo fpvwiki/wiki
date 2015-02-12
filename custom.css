@@ -53,3 +53,14 @@ a.external:after {
 p:empty {
   display: none;
 }
+
+#head h1:after {
+  content: 'This wiki is a work in progress, if you are excited about the hobby, please help make it better!';
+  display: block;
+  background: red;
+  color: white;
+  padding: .5em 1em;
+  margin: 1em 0;
+  font-size: 1.9rem;
+}
+
