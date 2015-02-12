@@ -22,3 +22,6 @@ BEC stands for **Battery Eliminator Circuit**. In the old days of electric fligh
   
   > That is the question. Whether ’tis nobler in the mind to suffer receiver pack failure, or to risk running the motor battery too low to power the electronics?
 
+### Do I have to be running the same ESCs?
+
+It has been suggested that running the same ESCs is not necessary for the multirotor set up. Even going as far as using different [[Motor]]s has been reported.  
