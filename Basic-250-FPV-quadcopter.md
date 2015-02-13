@@ -17,8 +17,8 @@ Basic list of components to get your flying if you have nothing.
   * Pliers
 * **Quadcopter Parts**
   * [[Frame]] x1
-  * [[ESCs]] x4
-  * [[Motors]] x4
+  * [[ESC]]s x4
+  * [[Motor]]s x4
   * [[Flight Controller]] x1
   * [[Receiver]] x1
   * [[Battery]] [[3S]] x1
@@ -29,7 +29,7 @@ Basic list of components to get your flying if you have nothing.
   * Sticky Velcro 1" wide (2-3")
   * Small ZIP ties (lots)
   * [[Shrink Tubing]] (various sizes)
-  * 3mm Nylon Locknut x4
+  * M5 Nylon Locknuts x4 (for the props) 
   * TODO: need to figure out minimum wiring & connectors
 * **Other Important Things**
   * [[Radio]] x1
