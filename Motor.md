@@ -20,7 +20,7 @@ A motor name can be confusing at first, but everything is meant to tell you some
 
 [[Dihedral]] motor mounts with a little bit of outward angle (5-15deg) to each of the motors thereby making the whole multirotor more stable (or so is speculated).
 
-[[/uploads/dihedral blades.JPG]]
+[[/uploads/dihedral-blades.JPG]]
 
 * [dihedral motor mount on quadcopter](http://www.rcgroups.com/forums/showthread.php?t=2326457) thread on RC Groups.
 * [Adding motor dihedral (slight inward mounting angle) for better stability](http://www.reddit.com/r/Multicopter/comments/2slxll/adding_motor_dihedral_slight_inward_mounting/) thread on Reddit
