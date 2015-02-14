@@ -8,6 +8,10 @@ TODO: create and fill in pages for each vendor
 
 Retails that carry a wide range of RC related stuff.
 
+### Australia
+
+* [[Multiwii Copter]] ([www](http://www.multiwiicopter.com/))
+
 ### Canada
 
 * [[Flite Lab]] ([www](http://flitelab.com))
