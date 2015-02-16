@@ -5,8 +5,9 @@
 ## Essentials
 
 * [[Soldering Iron]]
-* [[Flux Pen]]
 * [[Solder]]
+* [[Flux]]
+* [[Desoldering Wick]]
 * [[Shrink Tubing]]
 * [[Wire Stripper]]
 * [[Third Hand]]
