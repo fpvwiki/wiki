@@ -29,3 +29,9 @@ A motor name can be confusing at first, but everything is meant to tell you some
 
 * [dihedral motor mount on quadcopter](http://www.rcgroups.com/forums/showthread.php?t=2326457) thread on RC Groups.
 * [Adding motor dihedral (slight inward mounting angle) for better stability](http://www.reddit.com/r/Multicopter/comments/2slxll/adding_motor_dihedral_slight_inward_mounting/) thread on Reddit
+
+## FAQ
+
+### How to select the right motor for your multi-rotor 
+
+<<YouTube(HSQGI6u2DlM)>>
