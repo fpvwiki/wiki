@@ -35,3 +35,7 @@ A motor name can be confusing at first, but everything is meant to tell you some
 ### How to select the right motor for your multi-rotor 
 
 <<YouTube(HSQGI6u2DlM)>>
+
+> This is a short video to show the results of my lessons building quad-copters to help answer those subscribers who have asked questions around this topic.
+> 
+> In this video I explain how to size the motor and what ratios to use to get the right power in your model from my experience. Basically - you need to have a little over twice the weight of the model as thrust from the motors to have the model comfortably hover at the 50% point. 
