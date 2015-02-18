@@ -44,7 +44,21 @@ First-person view (FPV), also known as remote-person view (RPV), or simply video
 
 ## PID
 
-## Pitch
+## Principal axes
+
+For more info read [The Physics of Quadcopter Flight](http://blacktieaerial.com/2014/04/29/the-physics-of-quadcopter-flight/).
+
+### Pitch
+
+Pitch changes the vertical direction the aircraft's nose is pointing. 
+
+### Roll
+
+Roll affects how the craft is tilted side to side.
+
+### Yaw
+
+The yaw angle of the multirotor describes its bearing.
 
 ## Radio
 
@@ -74,4 +88,3 @@ Available in 3V, 5V, 6V, 7V, 9V and 12V, UBEC's are commonly used to power addit
 
 ## UHF
 
-## Yaw
