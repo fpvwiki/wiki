@@ -30,7 +30,15 @@ First-person view (FPV), also known as remote-person view (RPV), or simply video
 
 ## Motor
 
+## NTSC
+
+NTSC is the video system or standard used in North America and most of South America. In NTSC, 30 frames are transmitted each second. Each frame is made up of 525 individual scan lines. PAL is the predominant video system or standard mostly used overseas.
+
 ## OSD
+
+## PAL
+
+[PAL](http://en.wikipedia.org/wiki/PAL), short for Phase Alternating Line, is a colour encoding system for analogue television used in broadcast television systems in most countries broadcasting at 625-line / 50 field (25 frame) per second.
 
 ## PDB
 
@@ -51,6 +59,10 @@ First-person view (FPV), also known as remote-person view (RPV), or simply video
 ## Tricopter
 
 ## TVL
+
+[Television lines](http://en.wikipedia.org/wiki/Television_lines) (TVL) is defined as the maximum number of alternating light and dark vertical lines that can be resolved per picture height. A resolution of 400 TVL means that 200 distinct dark vertical lines and 200 distinct white vertical lines can be counted over a horizontal span equal to the height of the picture.
+
+Important to note that higher TVL on cameras doesn't translate into higher picture quality in the FPV context. The image captured with 800 TVL camera that is translated in NTSC format will be displayed at 525 scan lines (PAL is 625). 
 
 ## Tx
 
