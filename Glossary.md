@@ -10,6 +10,8 @@
 
 ## Quadcopter
 
+## Failsafe
+
 ## Flight Controller (FC)
 
 <img src="/uploads/flight-controller-generic.jpg" align="right" /> A Flight Controller (FC) is a small circuit board of varying complexity. Its function is to direct the RPM of each motor in response to input. A command from the pilot for the multi-rotor to move forward is fed into the flight controller, which determines how to manipulate the motors accordingly.
@@ -28,11 +30,19 @@ First-person view (FPV), also known as remote-person view (RPV), or simply video
 
 ## Motor
 
+## OSD
+
+## PDB
+
+## PID
+
 ## Pitch
 
 ## Radio
 
 ## Rate Mode
+
+## RSSI
 
 ## Rx
 
@@ -45,6 +55,10 @@ First-person view (FPV), also known as remote-person view (RPV), or simply video
 ## Tx
 
 ## UBEC
+
+## UHF
+
+## Yaw
 
 A Universal Battery Elimination Circuit, or UBEC, allows you to regulate the voltage of your battery down to another voltage. They are commonly used to provide 5V for flight controllers and radio receivers.
 
