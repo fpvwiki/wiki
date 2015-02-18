@@ -32,7 +32,7 @@ First-person view (FPV), also known as remote-person view (RPV), or simply video
 
 ## NTSC
 
-NTSC is the video system or standard used in North America and most of South America. In NTSC, 30 frames are transmitted each second. Each frame is made up of 525 individual scan lines. PAL is the predominant video system or standard mostly used overseas.
+[NTSC](http://en.wikipedia.org/wiki/NTSC) is the video system or standard used in North America and most of South America. In NTSC, 30 frames are transmitted each second. Each frame is made up of 525 individual scan lines. PAL is the predominant video system or standard mostly used overseas.
 
 ## OSD
 
