@@ -3,6 +3,7 @@
 ## Full Frame PDBs
 
 * [[Nucleus]] PDB for [[ZMR250]] frame.
+* [[Mystery]] PDB for [[ZMR250]] frame.
 
 ## Small PDBs
 
