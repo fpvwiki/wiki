@@ -4,6 +4,8 @@
 
 ## Angle Mode
 
+## CPPM
+
 ## ESC
 
 <img src="/uploads/esc-generic.jpg" width="150" align="right" />An electronic speed control or [[ESC]] is an electronic circuit with the purpose to vary an electric motor's speed, its direction and possibly also to act as a dynamic brake. ESCs are often used on electrically powered radio controlled models, with the variety most often used for brushless motors essentially providing an electronically generated three phase electric power low voltage source of energy for the motor.
