@@ -4,14 +4,17 @@
 
 ## Essentials
 
-* [[Soldering Iron]]
-* [[Solder]]
-* [[Flux]]
+Here are all the tools and parts involved in basic at-home soldering.
+
 * [[Desoldering Wick]]
+* [[Flux]]
 * [[Shrink Tubing]]
-* [[Wire Stripper]]
-* [[Tip Tinner]]
+* [[Solder]]
+* [[Soldering Iron]]
 * [[Third Hand]]
+* [[Tip Tinner]]
+* [[Wire Cutter]]
+* [[Wire Stripper]]
 
 ## Video Guides
 
