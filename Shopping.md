@@ -31,7 +31,7 @@ Retails that carry a wide range of RC related stuff.
 
 ### USA
 
-* [[Aloft Hobbies]] ([www](http://www.alofthobbies.com/))
+* [[Aloft Hobbies]] ([www](http://www.alofthobbies.com/), San Rafael, CA)
 * [[Buddy RC]] ([www](http://www.buddyrc.com/))
 * [[DP Cav]] ([www](https://www.dpcav.com/xcart/home.php))
 * [[Drone Matters]] ([www](http://www.dronematters.com/))
