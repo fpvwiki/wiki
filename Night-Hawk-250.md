@@ -1,5 +1,7 @@
 # Night Hawk 250
 
+[[/uploads/Night-Hawk-250.jpg]]
+
 ## Guides
 
 ### Night Hawk 250 Pro Build
