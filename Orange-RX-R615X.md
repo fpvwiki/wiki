@@ -1,3 +1,5 @@
+[[_TOC_]]
+
 [[/uploads/Orange-RX-R615X.jpg]]
 
 ## Details
