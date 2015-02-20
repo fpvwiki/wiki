@@ -34,3 +34,17 @@ The R615X ushers in a new era of quality, reliability and performance for the Or
 * Weight: 3.7g / 9.8g with case 
 
 ([Source](http://www.hobbyking.com/hobbyking/store/__46632__OrangeRx_R615X_Spektrum_JR_DSM2_DSMX_Compatible_6Ch_2_4GHz_Receiver_w_CPPM.html))
+
+## Video Guides
+
+### Review: HobbyKing Orange DSM2 receiver
+
+<<YouTube(3ov0CILK_Ak)>>
+
+> A review of the Hobby King Spektrum compatible DSM2 receiver is long overdue -- so here it is.
+>
+> Bottom line: it is surprisingly well made and seems to perform very well.
+>
+> Great value and a proven performer in the field - what more can I say?
+>
+> Of course I would not recommend anyone gets heavily invested in DSM2 technology these days when there are so many far superior alternatives on the market.
