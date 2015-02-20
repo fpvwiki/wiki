@@ -36,9 +36,11 @@ First-person view (FPV), also known as remote-person view (RPV), or simply video
 
 ## OSD
 
+On-screen Display ([[OSD]]) overlays basic stats and information data on top of the camera image and is transmitted back to you as one. See the [[OSD]] page for more information.
+
 ## PAL
 
-[PAL](http://en.wikipedia.org/wiki/PAL), short for Phase Alternating Line, is a colour encoding system for analogue television used in broadcast television systems in most countries broadcasting at 625-line / 50 field (25 frame) per second.
+[PAL](http://en.wikipedia.org/wiki/PAL), short for Phase Alternating Line, is a color encoding system for analogue television used in broadcast television systems in most countries broadcasting at 625-line / 50 field (25 frame) per second.
 
 ## PDB
 
