@@ -4,7 +4,7 @@
 
 ## Video Guides
 
-### How to bind FrSky X8R receiver to Taranis X9D transmitter in D16 mode
+### How to bind X8R receiver to [[Taranis X9D|FrSky Taranis X9D]] in D16 mode
 
 <<YouTube(1IYg5mQdLVI)>>
 
