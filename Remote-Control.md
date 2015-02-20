@@ -1,7 +1,9 @@
 # Remote Control
 
-## Commonly Used Radios
+## Radios
 
 * [[FrSky Taranis X9D]]
 
 ## Learn Radio Principles
+
+TODO: fill in
