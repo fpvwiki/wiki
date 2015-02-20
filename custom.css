@@ -3,6 +3,18 @@ a.external:after {
   padding-left: 5px;
 }
 
+.amazon-product {
+  padding: 10px;
+  text-align: center;
+  border: 2px solid silver;
+  border-radius: 3px;
+  margin-bottom: 1em;
+}
+
+.amazon-product p {
+  margin-bottom: 0;
+}
+
 #gollum-editor {
   border: none;
   background: none;
