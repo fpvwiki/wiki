@@ -2,6 +2,8 @@
 
 [[_TOC_]]
 
+[[/uploads/naze32.jpg]]
+
 TODO: add more info
 
 ## Setup Guides
