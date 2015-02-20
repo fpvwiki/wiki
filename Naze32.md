@@ -2,7 +2,7 @@
 
 [[_TOC_]]
 
-[[/uploads/naze32.jpg]]
+[[/uploads/AcroNaze32.jpg]]
 
 TODO: add more info
 
