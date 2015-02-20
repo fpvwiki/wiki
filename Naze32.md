@@ -1,6 +1,8 @@
-# Naze
+# Naze32
 
-TODO
+[[_TOC_]]
+
+TODO: add more info
 
 ## Setup Guides
 
