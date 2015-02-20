@@ -7,6 +7,7 @@ The majority of flight controllers also employ sensors to supplement their calcu
 ## Common Flight Controllers
 
 * [[CC3D]]
+* [[Flip32]]
 * [[KK2]]
 * [[Naze32]]
 * [[Vector]]
