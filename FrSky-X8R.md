@@ -1,5 +1,7 @@
 # FrSky X8R
 
+[[_TOC_]]
+
 ## Video Guides
 
 ### How to bind FrSky X8R receiver to Taranis X9D transmitter in D16 mode
