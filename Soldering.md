@@ -10,6 +10,7 @@
 * [[Desoldering Wick]]
 * [[Shrink Tubing]]
 * [[Wire Stripper]]
+* [[Tip Tinner]]
 * [[Third Hand]]
 
 ## Video Guides
