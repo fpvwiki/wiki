@@ -10,5 +10,6 @@ TODO
 
 ## Additional Info
 
+* [Welcome to Taranis](https://www.youtube.com/playlist?list=PLMHmTVklKwOJxLKf43yQFWt0qlU0q3vJR) is a comprehensive 11 video walkthrough by Mark Harrison
 * [Taranis Quick Start Guide](/uploads/Taranis_Quick_Start_Guide.pdf)
 * [Taranis thread on RC Groups](http://www.rcgroups.com/forums/showthread.php?t=1866206)
