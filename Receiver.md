@@ -1,6 +1,6 @@
 # Receiver
 
-Radio receiver is placed on the multicopter and is link between your [[Radio]] transmitter and the [[Flight Controller]].
+Radio receiver is placed on the multicopter and is link between your radio [[Transmitter]] and the [[Flight Controller]].
 
 ## Receivers
 
