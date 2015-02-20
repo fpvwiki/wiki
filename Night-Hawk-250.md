@@ -2,6 +2,12 @@
 
 [[/uploads/Night-Hawk-250.jpg]]
 
+[[_TOC_]]
+
+## Advantages
+
+## Disadvantages
+
 ## Guides
 
 ### Night Hawk 250 Pro Build
