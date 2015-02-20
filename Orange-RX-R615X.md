@@ -16,19 +16,19 @@ The R615X ushers in a new era of quality, reliability and performance for the Or
 
 ## Features
 
-• Super light weight 3.7g / 9.8 grams with case
-• Compatible with DSM2/DSMX 1024/2048 aircraft radio and module systems
-• CPPM output allowing for single line connection with compatible CPPM devices
-• Short 25mm antennae for mounting in almost any location
-• Wide input voltage: 3.7~9.6V
-• 6 Channels
-• Compact design
+* Super light weight 3.7g / 9.8 grams with case
+* Compatible with DSM2/DSMX 1024/2048 aircraft radio and module systems
+* CPPM output allowing for single line connection with compatible CPPM devices
+* Short 25mm antennae for mounting in almost any location
+* Wide input voltage: 3.7~9.6V
+* 6 Channels
+* Compact design
 
 ## Specification
 
-Channels: 6
-Input voltage: 3.7~9.6V
-Size: 19.5x30x10mm, 43x22x13mm with case
-Weight: 3.7g / 9.8g with case 
+* Channels: 6
+* Input voltage: 3.7~9.6V
+* Size: 19.5x30x10mm, 43x22x13mm with case
+* Weight: 3.7g / 9.8g with case 
 
 ([Source](http://www.hobbyking.com/hobbyking/store/__46632__OrangeRx_R615X_Spektrum_JR_DSM2_DSMX_Compatible_6Ch_2_4GHz_Receiver_w_CPPM.html))
