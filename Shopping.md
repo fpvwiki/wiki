@@ -66,7 +66,7 @@ Retails that carry a wide range of RC related stuff.
 
 Products designed and sold by their developers.
 
-* [[Brain FPV]] ([www](https://www.brainfpv.com/))
+* [[Brain FPV]] ([www](https://www.brainfpv.com/), [[Flight Controller]] and [[OSD]] on a single 36mm board)
 * [[Chicken Sashimi FPV]] ([www](http://chickensashimifpv.spreadshirt.com/))
 * [[Dimension Engineering]] ([www](https://www.dimensionengineering.com/)) Robotics & Power Electronics.
 * [[Drone Kraft]] ([www](http://www.dronekraft.io/))
