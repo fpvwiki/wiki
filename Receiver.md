@@ -6,3 +6,4 @@ Radio receiver is placed on the multicopter and is link between your radio [[Tra
 
 * [[FrSky X8R]]
 * [[Orange RX DSM2]]
+* [[Orange RX DSMX]]
