@@ -10,4 +10,5 @@ TODO
 
 ## Additional Info
 
+* [Taranis Quick Start Guide](/uploads/Taranis_Quick_Start_Guide.pdf)
 * [Taranis thread on RC Groups](http://www.rcgroups.com/forums/showthread.php?t=1866206)
