@@ -1,6 +1,6 @@
 * [[Assembling]]
-* [[Remote Control]]
-* [[Flying]]
 * [[Community]]
+* [[Flying]]
 * [[Glossary]]
+* [[Remote Control]]
 * [[Shopping]]

@@ -70,6 +70,8 @@ The yaw angle of the multirotor describes its bearing.
 
 ## Rx
 
+## S.BUS
+
 ## Thrust
 
 ## Tricopter
