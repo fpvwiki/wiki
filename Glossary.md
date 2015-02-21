@@ -4,6 +4,8 @@
 
 ## Angle Mode
 
+In Angle Mode (previously known as LEVEL or ACC mode), the board will attempt to set pitch and roll according to the absolute angle of the input sticks. For example, if the pilot sets the roll stick to 5% right, the aircraft will attempt to maintain a "5%" right roll. In this mode, "centering the sticks" will cause the aircraft to attempt to level itself.
+
 ## CPPM
 
 ## ESC
@@ -13,6 +15,8 @@
 ## Quadcopter
 
 ## Failsafe
+
+A Failsafe mode is triggered in case of emergency when the multirotor [[Receiver]] loses connection with [[Transmitter]]. In best case scenario the drone slowly lands (or returns home if there's GPS). In worst case scenario it keeps its last bearing and crashes somewhere very far when battery rans out.
 
 ## Flight Controller (FC)
 
@@ -27,6 +31,8 @@ See [[Flight Controllers]] for more information.
 First-person view (FPV), also known as remote-person view (RPV), or simply video piloting, is a method used to control a radio-controlled vehicle from the driver or pilot's view point. Most commonly it is used to pilot an unmanned aerial vehicle (UAV) or a radio-controlled aircraft.
 
 ## Frame
+
+[[Frame]] is the base of a multirotor where all components are mounted. Generally a given frame is a fine a fine balance between weight and durability. 
 
 ## Horizon Mode
 
