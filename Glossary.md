@@ -8,6 +8,8 @@ In Angle Mode (previously known as LEVEL or ACC mode), the board will attempt to
 
 ## CPPM
 
+CPPM is Combined PPM and is an FrSky standard that combines all channels into a single channel. The [[Transmitter]] sends all combined channels over one to the receiver over a single connection. The flight board decodes it and lets you use for example 9 channels on a single channel [[Receiver]].
+
 ## ESC
 
 <img src="/uploads/esc-generic.jpg" width="150" align="right" />An electronic speed control or [[ESC]] is an electronic circuit with the purpose to vary an electric motor's speed, its direction and possibly also to act as a dynamic brake. ESCs are often used on electrically powered radio controlled models, with the variety most often used for brushless motors essentially providing an electronically generated three phase electric power low voltage source of energy for the motor.
