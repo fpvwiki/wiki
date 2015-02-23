@@ -8,7 +8,7 @@ Powering a multirotors deserves its own section because of how unexpectedly comp
 
 ## Understanding LiPo Batteries
 
-* **[Complete Guide to Lithium Polymer Batteries and LiPo Failure Reports](http://www.rcgroups.com/forums/showthread.php?t=209187)**. This is a *MUST* read. Please do. LiPO batteries can set your house on fire.
+* **[Complete Guide to Lithium Polymer Batteries and LiPo Failure Reports](http://www.rcgroups.com/forums/showthread.php?t=209187)**. This is a *MUST* read. Please do. LiPo batteries can set your house on fire if mishandled (also kill your teddy bear).
 * [[Storing LiPos]]
 
 ## Accessories
