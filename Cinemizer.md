@@ -6,6 +6,8 @@
 
 ## Technical Details
 
+([source](http://www.zeiss.com/cinemizer-oled/en_de/product-information.html#technical-details))
+
 ### Display 
 
 * two high-resolution OLED displays (Organic Light Emitting Diode)
@@ -36,7 +38,7 @@
 * iPod/iPhone: iPod and iPhone models with video capability
 * via optional accessories more details
 * AV-In: 3.5 mm/4-pin connector for audio & video (PAL/NTSC)
-* Connection options for various sources: Overview
+* [Connection options for various sources](http://www.zeiss.com/content/dam/cinemizer/downloads/pdf/eng/cinemizer_connection-matrix.pdf)
 
 ## Reviews
 
