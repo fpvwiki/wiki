@@ -25,12 +25,14 @@ Basic list of components to get your flying if you have nothing.
   * [[Props]] [[5030]] x4
   * [[XT60 Pigtail]] x1
   * [[PDB]] x1 (optional)
+* **Wires, Bits and Misc**
   * Battery Strap x1
-  * Sticky Velcro 1" wide (2-3")
-  * Small ZIP ties (lots)
+  * Sticky Velcro 1" wide (3-4")
+  * Small ZIP ties (~20)
   * [[Shrink Tubing]] (various sizes)
-  * M5 Nylon Locknuts x4 (for the props) 
-  * TODO: need to figure out minimum wiring & connectors
+  * M5 Nylon Locknuts x4 (for the props)
+  * Extra [[XT60]] & [[JST]] connectors
+  * [[Servo Lead]]s
 * **Other Important Things**
   * [[Radio]] x1
   * [[Battery Charger]] x1
