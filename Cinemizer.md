@@ -1,5 +1,21 @@
 # Carl Zeiss Cinemizer OLED Glasses
 
+[[/uploads/Carl-Zeiss-Cinemizer.jpg]]
+
+## Reviews
+
+* [Carl Zeiss OLED Cinemizer FPV Glasses](http://www.rcgroups.com/forums/showthread.php?t=2079277)
+
+  > What we liked:
+  >
+  > * Superior image quality and color representation.
+  > * Long battery life under standard-definition FPV usage.
+  >
+  > What we didn't like:
+  >
+  > * Rubber eyepiece for shielding sunlight is not included.
+  > * Earpiece clamps don't hold the glasses very tight.
+
 ## Carl Zeiss Cinemizer OLED Glasses for FPV
 
 <<YouTube(anBbAmJSvRU)>>
