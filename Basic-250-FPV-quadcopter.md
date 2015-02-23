@@ -30,7 +30,6 @@ Basic list of components to get your flying if you have nothing.
   * Sticky Velcro 1" wide (3-4")
   * Small ZIP ties (~20)
   * [[Shrink Tubing]] (various sizes)
-  * M5 Nylon Locknuts x4 (for the props)
   * Extra [[XT60]] & [[JST]] connectors
   * [[Servo Lead]]s
 * **Other Important Things**
