@@ -1,8 +1,8 @@
 # Batteries
 
-[[/uploads/battery-generic.jpg]]
-
 [[_TOC_]]
+
+[[/uploads/battery-generic.jpg]]
 
 Powering a multirotors deserves its own section because of how unexpectedly complex this subject can be for a newcomer.
 
