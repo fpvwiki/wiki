@@ -8,10 +8,10 @@ This is a *comprehensive* parts and tools list. If you were to be placed in an e
 
 ### To Get Flying
 
-Basic list of components to get your flying if you have nothing.
+Basic list of components to get a flying quadcopter if you have absolutely nothing right now.
 
 * **Tools**
-  * [[Soldering Iron]] & related bits
+  * [[Soldering Iron]] & related [[Soldering]] bits
   * Wire Cutters
   * Screwdrivers
   * Pliers
