@@ -15,6 +15,11 @@ a.external:after {
   margin-bottom: 0;
 }
 
+/* First image right after the TOC is the header image. */
+.toc+p > img:only-child {
+  width: 100%;
+}
+
 #gollum-editor {
   border: none;
   background: none;
