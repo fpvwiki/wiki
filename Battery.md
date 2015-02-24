@@ -11,9 +11,10 @@ Powering a multirotors deserves its own section because of how unexpectedly comp
 * **[Complete Guide to Lithium Polymer Batteries and LiPo Failure Reports](http://www.rcgroups.com/forums/showthread.php?t=209187)**. This is a *MUST* read. Please do. LiPo batteries can set your house on fire if mishandled (also kill your teddy bear).
 * [[Storing LiPos]]
 
-## Accessories
+## Tools & Accessories
 
-* [[LiPO Alarm]]
+* [LiPo Calculator](http://multicopter.forestblue.nl/lipo_need_calculator.html) - use this handy calculator to figure out the right battery for your multirotor.
+* [[LiPo Alarm]]
 
 ## Video Guides
 
