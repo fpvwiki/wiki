@@ -15,6 +15,7 @@ Retails that carry a wide range of RC related stuff.
 ### Canada
 
 * [[Flite Lab]] ([www](http://flitelab.com))
+* [[Rotor Geeks]] ([www](http://rotorgeeks.com/), Toronto, Canada)
 
 ### France
 
