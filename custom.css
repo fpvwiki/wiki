@@ -49,9 +49,14 @@ a.external:after {
   margin: 10px 0 0 -0.5em;
 }
 
+#wiki-footer #footer-content {
+  margin: 0;
+  padding: 1em 0;
+}
+
 #wiki-footer {
   overflow: hidden;
-  margin: 20px 0;
+  margin: 20px 0 0 0;
 }
 
 .has-sidebar #wiki-footer {
