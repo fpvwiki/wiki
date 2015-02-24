@@ -31,7 +31,7 @@ Basic list of components to get a flying quadcopter if you have absolutely nothi
   * Small ZIP ties (~20)
   * [[Shrink Tubing]] (various sizes)
   * Extra [[XT60]] & [[JST]] connectors
-  * [[Servo Lead]]s
+  * Male to Male [[Servo Lead]]s (~10)
 * **Other Important Things**
   * [[Radio]] x1
   * [[Battery Charger]] x1
