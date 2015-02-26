@@ -2,7 +2,7 @@
 
 [[_TOC_]]
 
-[[/uploads/flip32.jpg]]
+[[/uploads/flip32-02.jpg]]
 
 Flip32 is a small (36x36mm) flight control based on 32-bit STM32 processor running at 72MHz. With current attitude code from MultiWii, CPU spends more than 90% time at idle.
 
