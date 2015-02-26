@@ -38,6 +38,7 @@ Retails that carry a wide range of RC related stuff.
 * [[Drone Matters]] ([www](http://www.dronematters.com/))
 * [[FPV Ninjas]] ([www](http://www.fpvninjas.com/))
 * [[Get FPV]] ([www](http://www.getfpv.com/))
+* [[Harbor Freight]] ([www](http://www.harborfreight.com/), General Tools)
 * [[Helibatics]] ([www](http://www.helibatics.com/))
 * [[Hobby King]] ([www](http://www.hobbyking.com))
 * [[Hobby Partz]] ([www](http://www.hobbypartz.com/))
