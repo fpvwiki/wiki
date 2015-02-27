@@ -56,6 +56,7 @@ Retails that carry a wide range of RC related stuff.
 * [[Readymade RC]] ([www](http://www.readymaderc.com/store))
 * [[Ready To Fly Quads]] ([www](http://www.readytoflyquads.com/))
 * [[Simple Copter]] ([www](http://www.simplecopter.com/))
+* [[Skynet Heli]] ([www](http://skynetheli.com/)]
 * [[U Buy A Drone]] ([www](http://ubuyadrone.com/))
 * [[Voodoo Quads]] ([www](http://www.voodooquads.com/))
 * [[XHover]] ([www](http://xhover.com/))
