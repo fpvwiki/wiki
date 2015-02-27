@@ -26,6 +26,10 @@ Retails that carry a wide range of RC related stuff.
 * [[Eye Fly]] ([www](http://www.eyefly.info))
 * [[FPV 1]] ([www](http://www.fpv1.de))
 
+### Singapore
+
+* [[Drone Matters]] ([www](http://www.dronematters.com/))
+
 ### UK
 
 * [[First Person View]] ([www](http://www.firstpersonview.co.uk))
@@ -35,7 +39,6 @@ Retails that carry a wide range of RC related stuff.
 * [[Aloft Hobbies]] ([www](http://www.alofthobbies.com/), San Rafael, CA)
 * [[Buddy RC]] ([www](http://www.buddyrc.com/))
 * [[DP Cav]] ([www](https://www.dpcav.com/xcart/home.php))
-* [[Drone Matters]] ([www](http://www.dronematters.com/))
 * [[FPV Ninjas]] ([www](http://www.fpvninjas.com/))
 * [[Get FPV]] ([www](http://www.getfpv.com/))
 * [[Harbor Freight]] ([www](http://www.harborfreight.com/), General Tools)
