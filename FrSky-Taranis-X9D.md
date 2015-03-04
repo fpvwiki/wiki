@@ -6,6 +6,7 @@ TODO: Explain why it's commonly used (cheaper, supports [[OpenTX]])
 
 ## Common Modifications
 
+* [The "Amber" Transmitter Sound Pack](http://www.rcgroups.com/forums/showthread.php?t=2151914)
 TODO
 
 ## Additional Info
