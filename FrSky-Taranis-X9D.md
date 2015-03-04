@@ -1,5 +1,7 @@
 # FrSky Taranis X9D
 
+[[_TOC_]]
+
 [[/uploads/FrSky-Taranis-X9D.jpg]]
 
 TODO: Explain why it's commonly used (cheaper, supports [[OpenTX]])
