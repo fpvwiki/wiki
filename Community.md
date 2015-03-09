@@ -20,4 +20,4 @@ Most active RC and FPV forums:
 ## Local Groups
 
 * [FPVexplorers](http://www.meetup.com/FPVexplorers/) (USA, California, San Francisco, East Bay, **weekly meetings**)
-* [Welcome to the Game of Drones Aerial Sports League](http://www.meetup.com/GameOfDrones/) (USA, California, San Francisco, East Bay, **monthly meetings**)
+* [Game of Drones Aerial Sports League](http://www.meetup.com/GameOfDrones/) (USA, California, San Francisco, East Bay, **monthly meetings**)
