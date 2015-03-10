@@ -43,6 +43,7 @@ Retails that carry a wide range of RC related stuff.
 * [[Get FPV]] ([www](http://www.getfpv.com/))
 * [[Harbor Freight]] ([www](http://www.harborfreight.com/), General Tools)
 * [[Helibatics]] ([www](http://www.helibatics.com/))
+* [[HeliDirect]] ([www](http://www.helidirect.com/), Malden, MA)
 * [[Heli Hobby]] ([www](http://www.helihobby.com/), Reseda, CA)
 * [[Hobby King]] ([www](http://www.hobbyking.com))
 * [[Hobby Partz]] ([www](http://www.hobbypartz.com/))
