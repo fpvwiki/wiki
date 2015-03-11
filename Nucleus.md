@@ -4,14 +4,12 @@
 
 [Official Page](http://www.rcgroups.com/forums/showthread.php?t=2306948) is the RCGroups thread. Price is around under $25.
 
-The All-in-one design will give you the cleanest ,most wireless zmr250 build yet!
-
-Comes assembled except for buzzer in case you dont want to use it or use a different one.
+**The all-in-one design will give you the cleanest, most wireless [[ZMR250]] build yet!** Comes assembled except for buzzer in case you don't want to use it or use a different one.
 
 * 1.6mm thick,2oz copper PCB with black mask and white silkscreen graphics.
 * Enig (Immersion Gold plated pins/pads and filled or tented vias. 
 * 4 Sets of ESC power pads for each arm. ESC and motor signal pads top and bottom
-* Main Battery pads on top and bottom of the board.Bottom to keep battery leads out of the way and protected. Ziptie holes with allow for secondary securing of the battery leads to help in hard crashes. 3S and 4S capable. 
+* Main Battery pads on top and bottom of the board.Bottom to keep battery leads out of the way and protected. Zip-tie holes with allow for secondary securing of the battery leads to help in hard crashes. 3S and 4S capable. 
 * Wide uninterrupted power and ground plane to give the the highest current handling possible. The more copper on the plane with no traces restricting it,means the more power you can run on it without it starving motors/escs and heating up.. 
 * On board motor/esc connection to FC. No need to run any wires from your esc to you Flight controller. A signal pad is located next to each esc power pad . Motor 1 also has ESC BEC5v power pad to power the flight controller. Also one AUX BEC pad off motor4. 
 * Built in LC filter for FPV
