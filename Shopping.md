@@ -14,8 +14,9 @@ Retails that carry a wide range of RC related stuff.
 
 ### Canada
 
+* [[Downtown FPV]] ([www](http://dtfpv.com/en), Montreal, ON)
 * [[Flite Lab]] ([www](http://flitelab.com))
-* [[Rotor Geeks]] ([www](http://rotorgeeks.com/), Toronto, Canada)
+* [[Rotor Geeks]] ([www](http://rotorgeeks.com/), Toronto, ON)
 
 ### France
 
