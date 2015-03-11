@@ -10,7 +10,7 @@ This wiki aims to collect necessary resources together to be a helpful guide to 
 
 ## Get excited!
 
-If you are curious about FPV? Here are some YouTube videos that get people exited and often completely obsessed with FPV flying.
+Curious about FPV? Here is a couple of videos that get people exited and often completely obsessed with FPV flying.
 
 ### FPV Racing - Crash Session!!!
 
