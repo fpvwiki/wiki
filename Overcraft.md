@@ -1,6 +1,6 @@
 # Overcraft
 
-[[/uploads/overcraft-pdb.jpg]]
+[[/uploads/overcraft-pdb-beauty-shot.jpg]]
 
 [Official Page](http://www.rcgroups.com/forums/showthread.php?t=2260906) is the RCGroups thread. Price is around under $10.
 
