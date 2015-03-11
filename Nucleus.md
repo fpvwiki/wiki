@@ -4,7 +4,7 @@
 
 [Official Page](http://www.rcgroups.com/forums/showthread.php?t=2306948) is the RCGroups thread. Price is around under $25.
 
-**The all-in-one design will give you the cleanest, most wireless [[ZMR250]] build yet!** Comes assembled except for buzzer in case you don't want to use it or use a different one.
+**The all-in-one design will give you the cleanest, most wireless [[ZMR-250]] build yet!** Comes assembled except for buzzer in case you don't want to use it or use a different one.
 
 * 1.6mm thick,2oz copper PCB with black mask and white silkscreen graphics.
 * Enig (Immersion Gold plated pins/pads and filled or tented vias. 
