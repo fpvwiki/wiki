@@ -4,7 +4,7 @@
 
 [[/uploads/overcraft-pdb-beauty-shot.jpg]]
 
-[Official Page](http://www.rcgroups.com/forums/showthread.php?t=2260906) is the RCGroups thread. Price is around under $10.
+This is an integrated PDB board for the [[ZMR-250]] frame. [Official Page](http://www.rcgroups.com/forums/showthread.php?t=2260906) is the RCGroups thread. Price is around under $10.
 
 ## Assembly
 
