@@ -16,7 +16,7 @@ This is an integrated PDB board for the [[ZMR-250]] frame. [Official Page](http:
 
 *   **Onboard 5v BEC:** This board uses the lm2940 regulator to provide an output of 5v and 1 amp. You can power your flight control with that bec and buy OPTO esc. Also you can buy your normal esc, and power the flight control from the bec of the esc #1.  You decide what you prefer
 
-*   **Fpv filter:** Esc make noise to the fpv system, so this board has a inbuilt fpv filter to avoid that noise. All outputs are filtered on the pdb.
+*   **FPV filter:** Esc make noise to the fpv system, so this board has a inbuilt fpv filter to avoid that noise. All outputs are filtered on the pdb.
 
 *   **Optional 4S battery fpv regulator:** If you want to run your fpv at 4S, you should know that some systems run only at 12v. So you can easily plug a pololu regulator step down, or step up-down and thats it!.  [https://www.pololu.com/product/2846](https://www.pololu.com/product/2846) ([kind #1](https://www.pololu.com/category/131/step-down-voltage-regulators) [kind #2](https://www.pololu.com/category/133/step-up-step-down-voltage-regulators)) Not only pololus regulators, any other regulators accepted as well, most people buy them on ebay.
 
@@ -28,17 +28,17 @@ This is an integrated PDB board for the [[ZMR-250]] frame. [Official Page](http:
 
 *   **Evolved leg copper retraction.** In the past some shorts happends using metalic spacers who bit the solder mask with the time. Carbon fiber its conductive, so in this version the shape of the legs has been retracted front the copper to keep a very solid anti-shorts system. Also any spacer has a retraction of 8mm to support metalic and nylon spacers.
 
-*   **Friendly Esc Pads**: Esc pads angled to provide a easy solder even if you place your esc on the legs. There are also holes to provide wire access to the space between plates in case you plug your esc on the middle.
+*   **Friendly ESC pads**: Esc pads angled to provide a easy solder even if you place your esc on the legs. There are also holes to provide wire access to the space between plates in case you plug your esc on the middle.
 
-*   **Auxiliary Front esc pads**: Some people get wide lens on the fron camera, so they need to retract the camera much as possible. Front camera pads are retracted as well, but now you also have alternative power to avoid nuts from the camera hit the wires.
+*   **Auxiliary Front ESC pads**: Some people get wide lens on the fron camera, so they need to retract the camera much as possible. Front camera pads are retracted as well, but now you also have alternative power to avoid nuts from the camera hit the wires.
 
-*   **Optional Inbuild leds:** This board has 20 leds on it, but there is a optional jumper to allow turning they off. Jumper its shorted by default, you dont need to short jumpers to get the board running as normal. Also you can use this solder jump to turn the leds on or off when you want with electronics.
+*   **Optional Inbuild LEDs:** This board has 20 leds on it, but there is a optional jumper to allow turning they off. Jumper its shorted by default, you dont need to short jumpers to get the board running as normal. Also you can use this solder jump to turn the leds on or off when you want with electronics.
 
-*   **Big holes**: Big holes to make the board weigh less.
+*   **Big holes:** Big holes to make the board weigh less.
 
-*   **Optional inbuilt Buzzer**: PDB includes a buzzer, just solder it its optional. Easy solder. Very usefull if you lost your quadcopter and you want to find it, or you want to setup your profiles without looking at the leds of the FC.
+*   **Optional inbuilt Buzzer:** PDB includes a buzzer, just solder it its optional. Easy solder. Very usefull if you lost your quadcopter and you want to find it, or you want to setup your profiles without looking at the leds of the FC.
 
-*   **CleanFlight LEd System**. Buy some WS2812 or WS2812b led stips, and make your quad cooler.
+*   **CleanFlight LED System**. Buy some WS2812 or WS2812b led stips, and make your quad cooler.
 
 ## Assembly
 
