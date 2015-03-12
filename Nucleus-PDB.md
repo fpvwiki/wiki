@@ -1,10 +1,14 @@
-# Nucleus
+# Nucleus PDB
+
+[[_TOC_]]
 
 [[/uploads/nucleus-pdb.jpg]]
 
 This is an integrated PDB board for the [[ZMR-250]] frame. [Official Page](http://www.rcgroups.com/forums/showthread.php?t=2306948) is the RCGroups thread. Price is around under $25.
 
 Comes assembled except for buzzer in case you don't want to use it or use a different one.
+
+## Features
 
 * 1.6mm thick,2oz copper PCB with black mask and white silkscreen graphics.
 * Enig (Immersion Gold plated pins/pads and filled or tented vias. 
