@@ -1,4 +1,4 @@
-* [[Assembling]]
+* [[How To]]
 * [[Community]]
 * [[Flying]]
 * [[Glossary]]
