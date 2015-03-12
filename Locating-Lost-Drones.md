@@ -4,7 +4,8 @@ There are various devices for helping you locate where your multicopter has cras
 
 ## LOC8TOR
 
-http://www.loc8tor.com/everyday/loc8tor-lite.html/
+* http://www.loc8tor.com/everyday/loc8tor-lite.html/
+* [RC Groups thread on extending Loc8tor range](http://www.rcgroups.com/forums/showthread.php?t=934229)
 
 ### Loc8tor Field Test
 
