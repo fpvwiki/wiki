@@ -14,4 +14,4 @@
 * ~28mm deep, depending on focus distance
 * 16.9g without bracket, 18.2g with the bracket
 
-
+**Please note: The current version of RunCam SKY is not completely compatible with MAX7456 chip OSD (Blurred OSD display or flickering)**
