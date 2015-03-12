@@ -16,7 +16,7 @@ This is an integrated PDB board for the [[ZMR-250]] frame. [Official Page](http:
 
 *   **Onboard 5v BEC:** This board uses the lm2940 regulator to provide an output of 5v and 1 amp. You can power your flight control with that bec and buy OPTO esc. Also you can buy your normal esc, and power the flight control from the bec of the esc #1.  You decide what you prefer
 
-*   **Fpv filter: **Esc make noise to the fpv system, so this board has a inbuilt fpv filter to avoid that noise. All outputs are filtered on the pdb.
+*   **Fpv filter:** Esc make noise to the fpv system, so this board has a inbuilt fpv filter to avoid that noise. All outputs are filtered on the pdb.
 
 *   **Optional 4S battery fpv regulator:** If you want to run your fpv at 4S, you should know that some systems run only at 12v. So you can easily plug a pololu regulator step down, or step up-down and thats it!.  [https://www.pololu.com/product/2846](https://www.pololu.com/product/2846) ([kind #1](https://www.pololu.com/category/131/step-down-voltage-regulators) [kind #2](https://www.pololu.com/category/133/step-up-step-down-voltage-regulators)) Not only pololus regulators, any other regulators accepted as well, most people buy them on ebay.
 
