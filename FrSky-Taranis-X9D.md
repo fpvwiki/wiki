@@ -15,3 +15,17 @@ TODO: Explain why it's commonly used (cheaper, supports [[OpenTX]])
 * [Welcome to Taranis](https://www.youtube.com/playlist?list=PLMHmTVklKwOJxLKf43yQFWt0qlU0q3vJR) is a comprehensive 11 video walkthrough by Mark Harrison
 * [Taranis Quick Start Guide](/uploads/Taranis_Quick_Start_Guide.pdf)
 * [Taranis thread on RC Groups](http://www.rcgroups.com/forums/showthread.php?t=1866206)
+
+## Video Guides
+
+### Binding a Variety of Receivers with the FrSky Taranis
+
+<<YouTube(YTgGU3BMjPA)>>
+
+> Binding Receivers can give folks some troubles if it's not don't just so. This video demonstrates how to bind:
+>
+> * FrSky X8r
+> * FrSky D4R-II
+> * FrSky D8R-II (Same as D8R-PLUS
+> * FrSky D8FR-II HV
+> * ASA Delta 8 (most difficult of the bunch if you're short of patience)
