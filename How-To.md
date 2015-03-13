@@ -19,6 +19,7 @@ The list of type of parts involved in building a multicopter.
 * [[Flight Controller]]
 * [[Frame]]
 * [[Motor]]
+* [[OSD]]
 * [[Prop]]
 * [[PDB]]
 * [[Receiver]]
