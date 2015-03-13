@@ -16,6 +16,7 @@ Powering a multirotors deserves its own section because of how unexpectedly comp
 
 * [LiPo Storage Voltage, Dead Battery Recovery and Disposal information](http://www.rcgroups.com/forums/showthread.php?t=1074181)
 * [[Storing LiPos]]
+* [Battery Load Test Comparisons](http://www.rcgroups.com/forums/showthread.php?t=1767093) - a bit of an old thread from 2012 showing how in-depth people get about their batteries :)
 
 ## Tools & Accessories
 
