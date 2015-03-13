@@ -7,6 +7,10 @@
 * [[Basic 250 FPV quadcopter]]
 * [[Soldering]]
 
+## Radios
+
+* [[FrSky Taranis X9D]]
+
 ## Multicopter Parts
 
 The list of type of parts involved in building a multicopter.

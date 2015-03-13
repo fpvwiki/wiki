@@ -2,5 +2,4 @@
 * [[Community]]
 * [[Flying]]
 * [[Glossary]]
-* [[Remote Control]]
 * [[Shopping]]
