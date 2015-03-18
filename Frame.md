@@ -8,5 +8,7 @@ The number (eg 250, 300, 450) in the frame model generally indicates the size of
 
 ## 250 H Frames
 
-* [[ZMR 250]]
+* [[Hovership ZUUL Racehound]]
+* [[Lumenier QAV250]]
 * [[Night Hawk 250]]
+* [[ZMR 250]]
