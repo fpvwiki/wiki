@@ -10,7 +10,7 @@
 
 There are two Naze32 models being sold today: **6dof** and **10dof**. The only difference is that 10dof has includes Digital Compass (HMC5883L) and Barometer (MS5611) sensors. The 6dof version is generally about 50% the cost of 10dof.
 
-**Please note** that often [[Flip32]] 10dof is being sold as Naze32 10dof version. While technically [[Flip32]] is nearly exact copy, technically it's not the same board. 
+**Please note** that often [[Flip32]] 10dof is [being sold as Naze32 10dof](http://www.besthobbymall.com/multirotors/multirotor-control/naze32-flight-controller-with-32-bit-stm32-for-multicopter-10dof.html) version. While technically [[Flip32]] is nearly exact copy, technically it's not the same board. 
 
 ## Setup Guides
 
