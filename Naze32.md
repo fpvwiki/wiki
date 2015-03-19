@@ -4,9 +4,13 @@
 
 [[/uploads/AcroNaze32.jpg]]
 
-TODO: add more info
+## Specifications
+
+## Models
 
 ## Setup Guides
+
+See the [amazing documentation](http://www.abusemark.com/downloads/naze32_rev3.pdf) put together by *AbuseMarK* (if the previous link is broken, [[here|uploads/naze32_rev3.pdf]] is v3 a snapshot).
 
 ### How to setup a Naze32 Acro / Funfly Flight Controller
 
