@@ -6,7 +6,7 @@ There are many types of multirotor frames ranging from one off builds with woods
 
 The number (eg 250, 300, 450) in the frame model generally indicates the size of the frame, more specifically the diagonal distance in mm between motors. 
 
-## 250 H Frames
+## 250-ish H Quadcopter Frames
 
 * [[Hovership ZUUL Racehound]]
 * [[Lumenier QAV250]]
