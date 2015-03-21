@@ -6,6 +6,7 @@
 
 * [[Basic 250 FPV quadcopter]]
 * [[Soldering]]
+* [[Bluetooth]]
 
 ## Radios
 
