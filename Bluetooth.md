@@ -22,6 +22,12 @@ If you happen to have an Arduino laying around and you are comfortable using it 
 * If you have `HC-05` module you'll need pin 34 of the module high to enter AT mode.
 * If you have `HC-06` module, as long as it's not paired via BT, you should be in AT mode without having to do anything special.
 
+### Identifying Your Module
+
+The easiest way to identify if you have `HC-05` or `HC-06` is just to power it on and scan for Bluetooth devices with your phone. You will see an unpaired device with one or the other name. Pretty straightforward. Alternatively if your module has `JY-MCU` it's *probably* `HC-06`, `ZS-040` is *probably* `HC-05`. There are some additional details on the subject over [at this Instructable](http://www.instructables.com/id/AT-command-mode-of-HC-05-Bluetooth-module/?ALLSTEPS).
+
+### Changing The Baud Rate
+
 Here's the pin out. Please note this is an example for the `HC-05` Bluetooth module. For `HC-06` you can simply omit the `KEY` pin.
 
 [[/uploads/arduino-bluetooth-change-baud-rate-connection.jpg]]
@@ -56,7 +62,7 @@ void loop() {
 }
 ```
 
-When you run the program above and see `Enter AT command` prompt, try `AT`. If you see `OK` reply, you have succesfuly established connection with the Bluetooth module. Give yourself a hi-five!
+When you run the program above and see `Enter AT command` prompt, try `AT`. If you see `OK` reply, you have successfully established connection with the Bluetooth module. Give yourself a hi-five!
 
 The only thing you have to do now is to run the `AT+BAUD8` to change the baud rate to `115200`. You can also change the module ID and PIN like so:
 
@@ -70,3 +76,11 @@ The only thing you have to do now is to run the `AT+BAUD8` to change the baud ra
 > AT+PIN1234
 < OK1234
 ```
+
+## Video Guides
+
+### Flip 32+ Flight Controller Week 7
+
+<<YouTube(BKHp3U-8rV8)>>
+
+This video deals with setting up [[Flip32]] with a Bluetooth module. It shows in details how to set the baud rate and connect the module to [[Flip32]] [[Flight Controller]].
