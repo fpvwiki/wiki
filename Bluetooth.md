@@ -2,7 +2,7 @@
 
 [[_TOC_]]
 
-[[/uploads/bluetooth-hc-06.jpg]]
+[[/uploads/bluetooth-module.jpg]]
 
 Boards like [[Naze32]] and [[Flip32]] support an external Bluetooth module which lets you interact and configure your [[Flight  Controller]] via a phone application.
 
