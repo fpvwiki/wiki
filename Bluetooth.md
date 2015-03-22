@@ -53,3 +53,18 @@ void loop() {
     BTSerial.write(Serial.read());
 }
 ```
+
+When you run the program above and see `Enter AT command` prompt, try `AT`. If you see `OK` reply, you have succesfuly established connection with the Bluetooth module. Give yourself a hi-five!
+
+The only thing you have to do now is to run the `AT+BAUD8` to change the baud rate to `115200`. You can also change the module ID and PIN like so:
+
+```
+> AT+BAUD8
+< OK115200
+
+> AT+NAMEMultirotorWIKI
+< OMultirotorWIKI
+
+> AT+PIN1234
+< OK1234
+```
