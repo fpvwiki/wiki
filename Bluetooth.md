@@ -23,3 +23,33 @@ If you happen to have an Arduino laying around and you are comfortable using it 
 Here's the pin out. Please note this is an example for the `HC-05` Bluetooth module. For `HC-06` you can simply omit the `KEY` pin.
 
 [[/uploads/arduino-bluetooth-change-baud-rate-connection.jpg]]
+
+```c
+#include <SoftwareSerial.h>
+
+SoftwareSerial BTSerial(10, 11); // RX, TX
+
+void setup() {
+  // This pin will pull the module's pin 34 (key pin) HIGH to switch module to AT mode.
+  // Simply delete pin 9 mode and write if you have `HC-06` module.
+  pinMode(9, OUTPUT); 
+  digitalWrite(9, HIGH);
+
+  // Your own module default speed in AT command more. If you are seeing garbage in
+  // the serial monitor, it's because the baud rate doesn't match. Keep changing this
+  // until it work.
+  Serial.begin(9600);
+  BTSerial.begin(9600);
+  Serial.println("Enter AT commands:");
+}
+
+void loop() {
+  // Keep reading from BT Module and send to Arduino Serial Monitor
+  if (BTSerial.available())
+    Serial.write(BTSerial.read());
+
+  // Keep reading from Arduino Serial Monitor and send to BT Module
+  if (Serial.available())
+    BTSerial.write(Serial.read());
+}
+```
