@@ -5,8 +5,9 @@
 ## Guides
 
 * [[Basic 250 FPV quadcopter]]
-* [[Soldering]]
 * [[Bluetooth]]
+* [[Lock Nuts]]
+* [[Soldering]]
 
 ## Radios
 
