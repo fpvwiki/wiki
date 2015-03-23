@@ -86,5 +86,6 @@ Products designed and sold by their developers.
 * [[Game Of Drones]] ([www](http://www.gameofdrones.biz/))
 * [[FPV Plastics]] ([www](http://www.fpv-plastics.com/)) Full face adapters for various [[Goggles]]
 * [[Quad Revo]] ([www](http://quadrevo.com/), [[Frame]]s, [[PDB]]s)
+* [[RC Power Cases]] ([www](http://rcpowercases.com/), USA)
 * [[Smart FPV]] ([www](http://www.smartfpv.com/store/), Video & Camera stuff)
 * [[Spec UAV]] ([www](http://www.specuav.com/)) Offering high grade circular polarized antennas for FPV
