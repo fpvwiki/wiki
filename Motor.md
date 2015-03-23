@@ -15,6 +15,13 @@ A motor name can be confusing at first, but everything is meant to tell you some
 * **2300Kv** - Motor [[Kv]] number. 
 * **CW** and **CCW** - Clock and counter-clock wise rotation. Motors sometimes are sold in sets of two which when connected in the same way to [[ESC]]s will spin in opposite directions.
 
+## Motor Mounts
+
+It's important to make sure that the motors you are purchasing will fit your frame and vice versa. In worse case you can use a round filer to open up the holes from M2 to M3. Typically motor mounts fall into one of two groups.
+
+* 1806 motors use M2 screws and have 12x12mm mounts (meaning each hole is 12mm from the center)
+* 22XX motors use M3 screws and have 16x19mm mounts (meaning each two are 16mm from the center and the other two are 19mm) 
+
 ## Popular Motors
 
 * For the 250-ish frame
