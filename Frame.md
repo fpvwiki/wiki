@@ -11,4 +11,5 @@ The number (eg 250, 300, 450) in the frame model generally indicates the size of
 * [[Hovership ZUUL Racehound]]
 * [[Lumenier QAV250]]
 * [[Night Hawk 250]]
+* [[VDQ 250]]
 * [[ZMR 250]]
