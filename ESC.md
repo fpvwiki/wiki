@@ -6,10 +6,11 @@
 
 BEC stands for **Battery Eliminator Circuit**. In the old days of electric flight you had to use a separate 4.8V battery pack to power your receiver and servos. As the hobby evolved, speed controls started to include Battery Eliminator Circuits to power your receiver and servos, allowing you to get rid of the extra receiver battery pack.
 
-There are two main differentiating factors for ESCs:
+There are a few differentiating factors when it comes to picking the right ESCs:
 
 1. The amperage rating. This is generally labeled as `12A`, `20A` and so on. This is the maximum amps amount that and ESC can draw from the battery to your motors.
 2. Which software the ESC runs. Currently the two most popular are SimonK and BLHeli with the latter slowly overtaking the first one.
+3. Does ESC have a [BEC](#faq_bec) on it.
 
 ## What's inside: ESCs
 
