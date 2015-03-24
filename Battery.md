@@ -4,25 +4,33 @@
 
 [[/uploads/battery-generic.jpg]]
 
-Powering a multirotors deserves its own section because of how unexpectedly complex this subject can be for a newcomer.
+Batteries make your multirotor fly, plain and simple. Before we get any further...
 
 ## Safety
 
+**LiPo fires are real!!** Please read the [Complete Guide to Lithium Polymer Batteries and LiPo Failure Reports](http://www.rcgroups.com/forums/showthread.php?t=209187). Do it now! LiPo batteries can set your house on fire if mishandled (also kill your teddy bear). When you fly and crash all the time, your batteries get beaten pretty hard. **Always check for any sign of puffiness.**
+
 [[/uploads/lipo-fire-01.jpg]]
 
-**LiPo fires are real!!** Please read the [Complete Guide to Lithium Polymer Batteries and LiPo Failure Reports](http://www.rcgroups.com/forums/showthread.php?t=209187). Do it now! LiPo batteries can set your house on fire if mishandled (also kill your teddy bear).
+## What Are All These Numbers?
 
-## Understanding LiPo Batteries
+Each LiPo battery in RC hobby comes with three very important numbers on it:
 
-* [LiPo Storage Voltage, Dead Battery Recovery and Disposal information](http://www.rcgroups.com/forums/showthread.php?t=1074181)
-* [[Storing LiPos]]
-* [Battery Load Test Comparisons](http://www.rcgroups.com/forums/showthread.php?t=1767093) - a bit of an old thread from 2012 showing how in-depth people get about their batteries :)
+1. **mAh rating**. This is milliamperes per hour. This basically determines how much juice the battery. You can also guesstimate the size and weight because larger MAH means physically larger battery.
+2. **Number of cells**. Each cell in a LiPo battery is 3.7V and a 2 cell battery is 7.4V, 3 cell is 11.1v and so on.
+4. **C rating**. This is the most mysterious one of them all and alot of people are generally confused here.
+
+## Picking The Right Battery C Rating
 
 ## Tools & Accessories
 
 * [LiPo Calculator](http://multicopter.forestblue.nl/lipo_need_calculator.html) - use this handy calculator to figure out the right battery for your multirotor.
 * [[LiPo Alarm]]
 
+## FAQs
+
+* [LiPo Storage Voltage, Dead Battery Recovery and Disposal information](http://www.rcgroups.com/forums/showthread.php?t=1074181)
+* [Battery Load Test Comparisons](http://www.rcgroups.com/forums/showthread.php?t=1767093) - a bit of an old thread from 2012 showing how in-depth people get about their batteries :)
 ## Video Guides
 
 ### Parallel Charging
