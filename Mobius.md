@@ -8,7 +8,10 @@
 
 ## Specifications
 
-* Approximate Weight of Basic Components
+* Standard microSDHC cards up to 32GB are accepted for recording. Class 4 cards should work fine and are recommended. 
+* The stock 520 mAH lipo battery can power the camera for approximately 80-90 min. 
+* The higher capacity 820 mAH battery can power the camera for about 140 min.
+* Approximate weight:
   * Stock camera (inc. battery & memory card): 39g (add 2g. for the wider angle lens)
   * Case with heat sink: 12g.
   * Stock battery (520 mAh): 10g
@@ -16,9 +19,15 @@
   * Circuit board, lens module, & memory card: 17g
   * Mounting base plate without screw stud: 7g
   * Mounting base plate with screw stud: 10g
-* Standard microSDHC cards up to 32GB are accepted for recording. Class 4 cards should work fine and are recommended. 
-* The stock 520 mAH lipo battery can power the camera for approximately 80-90 min. 
-* The higher capacity 820 mAH battery can power the camera for about 140 min.
+* Power consumption:
+  * No battery connected:
+    * Standby mode: 225mA @ 4.97v
+    * Standby mode with AV-Out enabled: 265mA @ 4.97v
+    * Recording 1080p: 305mA @ 4.97v
+    * Recording 1080p with AV-OUT enabled: 330mA @ 4.96v
+  * Battery connected:
+    * Battery being charged from flat, powered off: 186mA @ 4.97v
+    * Battery being charged from flat, recording 1080p: average 505mA @ 4.95v
 
 ## Wide Angle vs Regular
 
