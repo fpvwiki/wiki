@@ -1,6 +1,16 @@
 # Mobius
 
+[[_TOC_]]
+
 ## Video Guides
+
+### Assembling a hidden dash-cam from a Mobius Camera and some accessories
+
+<<YouTube(9qx5fgy8f28)>>
+
+> Using a Mobius camera, a wide-angle lens, a super capacitor and a lens extender wire to make a hidden dash cam.
+
+Or... a way to place a Mobius camera body in a different location away from the lens.
 
 ### How to Build a Mobius Actioncam Power Cable with Video Out
 
