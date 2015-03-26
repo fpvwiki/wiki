@@ -38,6 +38,20 @@ The USB pinout is very straightforward and pretty much any USB type B mini conne
 
 [[/uploads/mobius-fpv-usb.jpg]]
 
+## Circuit Board
+
+* The circuit board has a reset button and easy disconnects for the battery and CMOS ribbon cable.
+* The charging and external communication port is a standard 5 pin mini-USB socket. 
+* The V3 circuit board released in Oct. 2014 has an added over-voltage protection IC on the USB external power input which will disconnect the external power if the voltage is between 5.6V to 28V. 
+* Standard microSDHC cards up to 32GB are accepted for recording. Class 4 cards should work fine and are recommended. 
+* The CMOS imager and DSP chips used in the camera are confidential at this point at the developer's request. 
+* The stock 520 mAH lipo battery can power the camera for approximately 80-90 min. 
+* The higher capacity 820 mAH battery can power the camera for about 140 min.
+
+[[/uploads/mobius-circuit-board-01.jpg]]
+
+[[/uploads/mobius-circuit-board-02.jpg]]
+
 ## Video Guides
 
 ### Graduated filter hack for the Mobius action cam
