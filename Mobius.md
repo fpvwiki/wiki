@@ -26,6 +26,18 @@ Mobius comes in two flavors:
 1. Regular ~85 degree lens (on the right)
 2. Wide angle ~120 degree lens (on the left)
 
+Each lens can be purchased separately and replacing existing lens is a matter of a few screws, unplugging existing lens and plugging in the new one. Could be done in under 5 minutes.
+
+## FPV Setup
+
+Mobius could be used as the recording and FPV camera at the same time if plugged in directly into the video transmitter.
+
+[[/uploads/mobius-fpv-setup.jpg]] 
+
+The USB pinout is very straightforward and pretty much any USB type B mini connector could be adapted for this purpose.
+
+[[/uploads/mobius-fpv-usb.jpg]]
+
 ## Video Guides
 
 ### Graduated filter hack for the Mobius action cam
