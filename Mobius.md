@@ -61,6 +61,10 @@ The USB pinout is very straightforward and pretty much any USB type B mini conne
 
 [[/uploads/mobius-circuit-board-02.jpg]]
 
+## More Info
+
+Can't find what you are looking for here? [RCGroups thread on Mobius](http://www.rcgroups.com/forums/showthread.php?t=1904559) has much more information.
+
 ## Video Guides
 
 ### Graduated filter hack for the Mobius action cam
