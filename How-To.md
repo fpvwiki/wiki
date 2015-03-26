@@ -31,8 +31,8 @@ The list of type of parts involved in building a multicopter.
 ## FPV Parts
 
 * [[Goggles]]
-* Small [[LCD Screen]]
-* [[Video Receiver]]s
-* [[FPV Camera]]s
-* [[Recording Camera]]s
-* [[Video Transmitter]]s
+* [[LCD Screen]]
+* [[Video Receiver]]
+* [[FPV Camera]]
+* [[Recording Camera]]
+* [[Video Transmitter]]
