@@ -17,6 +17,15 @@
   * Mounting base plate without screw stud: 7g
   * Mounting base plate with screw stud: 10g
 
+## Wide Angle vs Regular
+
+[[/uploads/mobius-lens.jpg]] 
+
+Mobius comes in two flavors:
+
+1. Regular ~85 degree lens (on the right)
+2. Wide angle ~120 degree lens (on the left)
+
 ## Video Guides
 
 ### Graduated filter hack for the Mobius action cam
