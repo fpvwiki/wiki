@@ -22,7 +22,7 @@ Basic list of components to get a flying quadcopter if you have absolutely nothi
   * [[Flight Controller]] x1
   * [[Receiver]] x1
   * [[Battery]] [[3S]] x1
-  * [[Props]] [[5030]] x4
+  * [[Prop]] [[5030]] x4
   * [[XT60 Pigtail]] x1
   * [[PDB]] x1 (optional)
 * **Wires, Bits and Misc**
