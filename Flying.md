@@ -2,6 +2,10 @@
 
 [[_TOC_]]
 
+## Regulations
+
+Please be aware of your local [[Regulations]] regarding RC and FPV.
+
 ## Where To Fly?
 
 * [SF Bay Area, CA, USA](https://www.google.com/maps/d/viewer?msa=0&mid=zFq0unLIXWYo.k6-b1StMq6TA)
@@ -20,7 +24,6 @@ TODO: add learning to fly, etc...
 
 * [Solar Data](http://www.n3kl.org/sun/noaa.html)
 * [[Locating Lost Drones]]
-* [[Regulations]]
 * [[Magentometer Declination]]
 
 TODO: Explain how solar interference can affect RC radios.
