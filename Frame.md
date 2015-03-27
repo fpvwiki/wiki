@@ -13,3 +13,7 @@ The number (eg 250, 300, 450) in the frame model generally indicates the size of
 * [[Night Hawk 250]]
 * [[VDQ 250]]
 * [[ZMR 250]]
+
+## Misc 
+
+* [Untested Prototype](http://untestedprototype.com/) has a few open source frame designs that you can download and print or mill yourself.
