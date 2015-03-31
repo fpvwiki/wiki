@@ -25,7 +25,7 @@ TODO: Explain why it's commonly used (cheaper, supports [[OpenTX]])
 > Binding Receivers can give folks some troubles if it's not don't just so. This video demonstrates how to bind:
 >
 > * FrSky X8r
-> * FrSky D4R-II
+> * [[FrSky D4R-II|FrSky D4R]]
 > * FrSky D8R-II (Same as D8R-PLUS
 > * FrSky D8FR-II HV
 > * ASA Delta 8 (most difficult of the bunch if you're short of patience)
@@ -34,7 +34,7 @@ TODO: Explain why it's commonly used (cheaper, supports [[OpenTX]])
 
 <<YouTube(Q7KpBGDxZQ4)>>
 
-> This video focuses on telemetry using a Taranis, [D4R|FrSky D4R], and Acro [[Naze32]]. It only configures RSSI and battery voltage. If this were a full [[Naze32]] instead of just an Acro [[Naze32]], then there would be more pieces of information available in telemetry.
+> This video focuses on telemetry using a Taranis, [[D4R-II|FrSky D4R]], and Acro [[Naze32]]. It only configures RSSI and battery voltage. If this were a full [[Naze32]] instead of just an Acro [[Naze32]], then there would be more pieces of information available in telemetry.
 
 ### How to make a battery pack 2000mah for Taranis
 
