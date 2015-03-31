@@ -42,3 +42,8 @@ This video is pretty old, but just as relevant today as it was back then. Enjoye
 >
 > With just a bit of pratice it becomes much easier to solder SMD then through hole soldering. As shown in the video the main key is lots of flux, but be sure to properly clean your work once you are finished soldering it.
 
+### How to cut circuit board PCB material
+
+<<YouTube(uBkPX_QhRI0)>>
+
+> This video shows a few of the methods I use to cut copper clad printed circuit board material (PCB) for my homebrew, breadboard and prototype circuit construction. These methods include using metal shears (tin snips), nibblers, utility knife scoring and snapping, jigsaw, etc. Always use proper eye protection!
