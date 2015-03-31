@@ -34,4 +34,8 @@ TODO: Explain why it's commonly used (cheaper, supports [[OpenTX]])
 
 <<YouTube(Q7KpBGDxZQ4)>>
 
-> This video focuses on telemetry using a Taranis, D4R-II, and Acro Naze32. It only configures RSSI and battery voltage. If this were a full Naze32 instead of just an Acro Naze32, then there would be more pieces of information available in telemetry.
+> This video focuses on telemetry using a Taranis, D4R-II, and Acro [[Naze32]]. It only configures RSSI and battery voltage. If this were a full [[Naze32]] instead of just an Acro [[Naze32]], then there would be more pieces of information available in telemetry.
+
+### How to make a battery pack 2000mah for Taranis
+
+<<YouTube(X1ezRLQPBCg)>>
