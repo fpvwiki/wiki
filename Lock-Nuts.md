@@ -38,4 +38,10 @@ Here's an example of what how your lock nuts **should not** be fitting. If you a
 
 ## Recommended Products
 
+### M3 Lock Nuts, pack of 100
+
 <<Amazon(B000NBKLOQ)>>
+
+### M5 Locks Nuts, pack of 100
+
+<<Amazon(B000NBKLM8)>>
