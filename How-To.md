@@ -13,22 +13,28 @@
 
 * [[FrSky Taranis X9D]]
 
-## Multicopter Parts
+## Components
 
-The list of type of parts involved in building a multicopter.
+The list of components involved in building a multicopter and getting setup for FPV.
+
+### Essential Components
 
 * [[ESC]]
 * [[Flight Controller]]
 * [[Frame]]
 * [[Motor]]
-* [[OSD]]
 * [[Prop]]
-* [[PDB]]
 * [[Receiver]]
 * [[Battery]] & [[Charger]]
 * Wire [[Connector]]s
 
-## FPV Parts
+### Optional Components
+
+* [[OSD]]
+* [[PDB]]
+* [[Bluetooth]]
+
+### FPV Components
 
 * [[Goggles]]
 * [[LCD Screen]]
