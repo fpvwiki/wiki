@@ -17,7 +17,7 @@ The most commonly used locknut sizes to assemble quadcopters are M3 and M5.
 * Use 5.5mm socket hex driver
 * Height generally doesn't vary, 4mm
 * Expect to pay ~$3.50 for 100 pack of nylon lock nuts
-* [More technical details](http://www.mcmaster.com/#90576a104/=wkddwo) 
+* [More technical details](http://www.mcmaster.com/#90576a102/=wkdg50) 
 
 ### M5
 
