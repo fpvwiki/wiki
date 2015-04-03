@@ -4,7 +4,7 @@
 
 [[/uploads/flip32-02.jpg]]
 
-Flip32 is a small (36x36mm) flight control based on 32-bit STM32 processor running at 72MHz. With current attitude code from MultiWii, CPU spends more than 90% time at idle.
+Flip32 (aka DragonFly32) is a small (36x36mm) flight control based on 32-bit STM32 processor running at 72MHz. With current attitude code from MultiWii, CPU spends more than 90% time at idle.
 
 * [Flip 32+ User Manual](http://www.rcgroups.com/forums/showthread.php?t=2212634)
 
@@ -33,3 +33,9 @@ There are two Flip32 models being sold today: **6dof** and **10dof**. The differ
 ## Video Guides
 
 Watch [this 7 part Flip32 walkthrough](https://www.youtube.com/playlist?list=PLcgC1hv_h_0YaeVh5UI0XY5iC4p97ljv1) by [RC JOSEB](https://www.youtube.com/channel/UC8x4XDXGAa4RqTaBuUcMicQ).
+
+### DragonFly32 Flight Controller Minimalistic Pin Setup
+
+<<YouTube(geuoSKtjHes)>>
+
+> How to setup your Dragon32 Flight Controller with minimal pins for a nice clean build. This method takes advantage of CPPM so you only have one wire from the receiver to the flight controller and only using signal cables from the ESC's to the FC with exception of one for power to the FC. 
