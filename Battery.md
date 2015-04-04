@@ -12,6 +12,10 @@ Batteries make your multirotor fly, plain and simple. Before we get any further.
 
 [[/uploads/lipo-fire-01.jpg]]
 
+## Anatomy
+
+[[/uploads/lipo-anatomy.jpg]]
+
 ## What Are All These Numbers?
 
 Each LiPo battery in RC hobby comes with three very important numbers on it:
