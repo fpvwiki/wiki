@@ -42,3 +42,8 @@ The list of components involved in building a multicopter and getting setup for 
 * [[FPV Camera]]
 * [[Recording Camera]]
 * [[Video Transmitter]]
+
+## Online Tools
+
+* [Attenuation & Power Handling Calculator](http://www.timesmicrowave.com/calculator/?productId=132#form)
+* [RF Assembly Calculator](http://rfcablecalc.hubersuhner.com/)
