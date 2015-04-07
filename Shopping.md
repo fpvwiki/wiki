@@ -66,12 +66,6 @@ Retails that carry a wide range of RC related stuff.
 * [Voodoo Quads](http://www.voodooquads.com/)
 * [XHover](http://xhover.com/)
 
-#### Electronics Suppliers
-
-* [Digikey](http://www.digikey.com/product-search/en)
-* [Mouser](http://www.mouser.com/)
-* [Jameco](http://www.jameco.com/)
-
 ### China/Asia Based Vendors
 
 These vendors generally ship world-wide from China based warehouses.
@@ -97,3 +91,9 @@ Products designed and sold by their developers.
 * [RC Power Cases](http://rcpowercases.com/) (USA)
 * [Smart FPV](http://www.smartfpv.com/store/) (Video & Camera stuff)
 * [Spec UAV](http://www.specuav.com/) (Offering high grade circular polarized antennas for FPV
+
+## Electronics Suppliers
+
+* [Digikey](http://www.digikey.com/product-search/en)
+* [Mouser](http://www.mouser.com/)
+* [Jameco](http://www.jameco.com/)
