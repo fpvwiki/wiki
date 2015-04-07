@@ -2,11 +2,9 @@
 
 [[_TOC_]]
 
-TODO: create and fill in pages for each vendor
+## Hobby Retails
 
-## General RC Retails
-
-Retails that carry a wide range of RC related stuff.
+Retails that carry a wide range of RC & hobby related stuff.
 
 ### Australia
 
