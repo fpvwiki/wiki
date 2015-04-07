@@ -61,7 +61,7 @@ Retails that carry a wide range of RC related stuff.
 * [Ready To Fly Quads](http://www.readytoflyquads.com/)
 * [Simple Copter](http://www.simplecopter.com/)
 * [Stone Blue Airlines](http://www.stoneblueairlines.com/) (Lynchburg, VA)
-* [Skynet Heli](http://skynetheli.com/) (]
+* [Skynet Heli](http://skynetheli.com/)
 * [U Buy A Drone](http://ubuyadrone.com/)
 * [Voodoo Quads](http://www.voodooquads.com/)
 * [XHover](http://xhover.com/)
