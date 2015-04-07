@@ -92,6 +92,9 @@ Products designed and sold by their developers.
 
 ## Electronics Suppliers
 
+### USA
+
 * [Digi-Key Electronics](http://www.digikey.com/product-search/en) (Thief River Falls, MN)
 * [Mouser](http://www.mouser.com/) (Mansfield, TX)
-* [Jameco](http://www.jameco.com/)
+* [Jameco](http://www.jameco.com/) (Belmont, CA)
+* [sparkfun](https://www.sparkfun.com/) (Niwot, CO)
