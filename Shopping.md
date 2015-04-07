@@ -66,6 +66,12 @@ Retails that carry a wide range of RC related stuff.
 * [Voodoo Quads](http://www.voodooquads.com/)
 * [XHover](http://xhover.com/)
 
+#### Electronics Suppliers
+
+* [Digikey](http://www.digikey.com/product-search/en)
+* [Mouser](http://www.mouser.com/)
+* [Jameco](http://www.jameco.com/)
+
 ### China/Asia Based Vendors
 
 These vendors generally ship world-wide from China based warehouses.
@@ -81,12 +87,12 @@ Products designed and sold by their developers.
 
 * [Brain FPV](https://www.brainfpv.com/) ([[Flight Controller]] and [[OSD]] on a single 36mm board)
 * [Chicken Sashimi FPV](http://chickensashimifpv.spreadshirt.com/)
-* [Dimension Engineering](https://www.dimensionengineering.com/) (Robotics & Power Electronics.
+* [Dimension Engineering](https://www.dimensionengineering.com/) (Robotics & Power Electronics)
 * [Drone Kraft](http://www.dronekraft.io/)
 * [Drone Matters](http://www.dronematters.com/)
 * [Eagle Tree Systems](http://www.eagletreesystems.com/)
 * [Game Of Drones](http://www.gameofdrones.biz/)
-* [FPV Plastics](http://www.fpv-plastics.com/) ( Full face adapters for various [[Goggles]]
+* [FPV Plastics](http://www.fpv-plastics.com/) (Full face adapters for various [[Goggles]])
 * [Quad Revo](http://quadrevo.com/) ([[Frame]]s, [[PDB]]s)
 * [RC Power Cases](http://rcpowercases.com/) (USA)
 * [Smart FPV](http://www.smartfpv.com/store/) (Video & Camera stuff)
