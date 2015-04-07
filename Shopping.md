@@ -92,6 +92,6 @@ Products designed and sold by their developers.
 
 ## Electronics Suppliers
 
-* [Digikey](http://www.digikey.com/product-search/en)
+* [Digi-Key Electronics](http://www.digikey.com/product-search/en) (Thief River Falls, MN)
 * [Mouser](http://www.mouser.com/)
 * [Jameco](http://www.jameco.com/)
