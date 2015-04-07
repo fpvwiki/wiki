@@ -46,7 +46,7 @@ Retails that carry a wide range of RC related stuff.
 * [Helibatics](http://www.helibatics.com/)
 * [HeliDirect](http://www.helidirect.com/) (Malden, MA)
 * [Heli Hobby](http://www.helihobby.com/) (Reseda, CA)
-* [Hobby King](http://www.hobbyking.com)
+* [Hobby King](http://www.hobbyking.com) (Global Warehouses)
 * [Hobby Partz](http://www.hobbypartz.com/)
 * [Horizon Hobby](https://www.horizonhobby.com/)
 * [Hovership](http://shop.hovership.com/)
