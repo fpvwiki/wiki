@@ -8,6 +8,7 @@
 * [[Bluetooth]]
 * [[Lock Nuts]]
 * [[Soldering]]
+* [[3D Printing]]
 
 ## Radios
 
