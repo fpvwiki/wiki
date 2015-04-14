@@ -10,4 +10,5 @@ The majority of flight controllers also employ sensors to supplement their calcu
 * [[Flip32]]
 * [[KK2]]
 * [[Naze32]]
+* [[Spektrum Ladybird]]
 * [[Vector]]
