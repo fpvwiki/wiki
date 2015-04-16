@@ -29,6 +29,7 @@ Basic list of components to get a flying quadcopter if you have absolutely nothi
   * Battery Strap x1
   * Sticky Velcro 1" wide (3-4")
   * Small ZIP ties (~20)
+  * [[Lock Nuts]]
   * [[Shrink Tubing]] (various sizes)
   * Extra [[XT60]] & [[JST]] connectors
   * Male to Male [[Servo Lead]]s (~10)
