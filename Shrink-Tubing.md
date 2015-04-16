@@ -6,4 +6,4 @@ I recommend getting all clear shrink wrap, this way you can see what's going on.
 
 * 3/4"
   * Wrap majority [[ESC]] onto to arms
-  * Wrap [[D4R]] receiver
+  * Wrap [[FrSky D4R]] receiver
