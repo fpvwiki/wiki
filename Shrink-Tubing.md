@@ -2,6 +2,8 @@
 
 ## Suggested Sizes
 
+I recommend getting all clear shrink wrap, this way you can see what's going on. For example if you have a bad solder and it's loose, clear tubing makes that possible to spot.
+
 * 3/4"
-  * wrap majority [[ESC]] onto to arms
-  * wrap [[D4R-II]]
+  * Wrap majority [[ESC]] onto to arms
+  * Wrap [[D4R]] receiver
