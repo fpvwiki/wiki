@@ -2,6 +2,12 @@
 
 [[_TOC_]]
 
+## How to Fly a Multirotor
+
+<<YouTube(6btEFJJD4_o)>>
+
+> Josh and Alex give some tips for first time multirotor pilots.
+
 ## RC Basics: Learning to fly FPV
 
 <<YouTube(DXe6pPf2fXI)>>
