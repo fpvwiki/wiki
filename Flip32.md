@@ -34,6 +34,15 @@ There are two Flip32 models being sold today: **6dof** and **10dof**. The differ
 
 Watch [this 7 part Flip32 walkthrough](https://www.youtube.com/playlist?list=PLcgC1hv_h_0YaeVh5UI0XY5iC4p97ljv1) by [RC JOSEB](https://www.youtube.com/channel/UC8x4XDXGAa4RqTaBuUcMicQ).
 
+### Overview, Cleanflight install and comparison with Naze32
+
+<<YouTube(SZdIWCOigoY)>>
+
+> In this video we explore the Flip32, another version of the excellent Naze32 full board. The Flip32 provides the same features as the full Naze32 but also offers simpler receiver connections and more places to use to power external devices like the GPS, MinimOSD and Bluetooth adapters.
+>
+> The aim of this video is to cover the differences between this board and the Naze32 so you can watch the full Naze32 series and be able to configure and install all the add-ons and extras with this cheaper version too. 
+
+
 ### DragonFly32 Flight Controller Minimalistic Pin Setup
 
 <<YouTube(geuoSKtjHes)>>
