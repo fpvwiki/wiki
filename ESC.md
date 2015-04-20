@@ -18,6 +18,10 @@ There are a few differentiating factors when it comes to picking the right ESCs:
 
 > RCModelReviews takes you inside an electronic speed controller (ESC) for RC planes and discusses a little about how they work.
 
+## Common ESC
+
+* [[RCTimer / DYS Mini SN20a|SN20a]]
+
 ## FAQ
 
 ### BEC
