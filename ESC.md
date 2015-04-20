@@ -32,6 +32,10 @@ There are a few differentiating factors when it comes to picking the right ESCs:
 
 It has been suggested that running the same ESCs is not necessary for the multirotor set up. Even going as far as using different [[Motor]]s has been reported.
 
+## Tools
+
+* [RapidFlash](https://chrome.google.com/webstore/detail/rapidflash/gehadojofkekobiohnefkabgimeniglh?hl=en)
+
 ## Fun Videos
 
 ### ESC Burning Out Mid-flight
