@@ -12,6 +12,7 @@ Retails that carry a wide range of RC & hobby related stuff.
 
 ### Canada
 
+* [Armattan Minis](http://www.armattanminis.ca/)
 * [Downtown FPV](http://dtfpv.com/en) (Montreal, ON)
 * [Flite Lab](http://flitelab.com)
 * [Rotor Geeks](http://rotorgeeks.com/) (Toronto, ON)
