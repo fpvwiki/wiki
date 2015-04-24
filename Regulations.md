@@ -13,6 +13,7 @@
 
 ## USA
 
+* [Join AMA](https://www.modelaircraft.org/joinnew.aspx)
 * [Know Before You Fly](http://knowbeforeyoufly.org/) is a very good resource for general guidelines.
 * [No Fly Zone](https://www.mapbox.com/drone/no-fly/)
 * [Operation and Certification of Small Unmanned Aircraft Systems](http://www.regulations.gov/#!documentDetail;D=FAA-2015-0150-0017)
