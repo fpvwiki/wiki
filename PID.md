@@ -21,6 +21,8 @@ D gain (Derivative) is the last gain to play with it and it only slows down the 
 
 If you let's say have your multi flying really well and you are comfortable with your PID's, but still have some oscillations on full throttle or higher throttle ranges you could add some TPA. With TPA basically your PID's will stay the same till 50% throttle, but above that those will be linearly decreased. See a visual presentation of TPA in action.
 
+[source](http://www.netraam.eu/nazewiki/pmwiki.php?n=Howto.PIDTuning)
+
 ## Reading
 
 * [Quadcopter PID Explained and Tuning](http://blog.oscarliang.net/quadcopter-pid-explained-tuning/)
