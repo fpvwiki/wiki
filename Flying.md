@@ -15,6 +15,7 @@ Please be aware of your local [[Regulations]] regarding RC and FPV.
 RC simulators are a good way to practice flying when weather doesn't permit.
 
 * [[Aerofly RC]] (Win, Mac)
+* [[NEXT]] (Win, Mac)
 * [[Phoenix]] (Win)
 * [[RealFlight]] (Win)
 
