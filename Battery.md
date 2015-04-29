@@ -28,7 +28,7 @@ Each LiPo battery in RC hobby comes with three very important numbers on it:
 
 ## Tools & Accessories
 
-* [LiPo Calculator](http://multicopter.forestblue.nl/lipo_need_calculator.html) - use this handy calculator to figure out the right battery for your multirotor.
+* [LiPo Calculator](http://tools.jwalter.sh/multicopter/lipo/flighttime.html) - use this handy calculator to figure out the right battery for your multirotor ([another calculator](http://multicopter.forestblue.nl/lipo_need_calculator.html)). 
 * [[LiPo Alarm]]
 
 ## FAQs
