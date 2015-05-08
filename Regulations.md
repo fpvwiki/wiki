@@ -2,6 +2,11 @@
 
 [[_TOC_]]
 
+## Australia
+
+* [Model aircraft and RPA](http://www.casa.gov.au/scripts/nc.dll?WCMS:STANDARD::pc=PC_100375)
+* [CPL(H) Theory](http://aft.com.au/cms/?page_id=152)
+
 ## Canada
 
 * [General Safety Practices – Model Aircraft and Unmanned Air Vehicle Systems](http://www.tc.gc.ca/eng/civilaviation/opssvs/managementservices-referencecentre-acs-600-2135.html#2_2)
