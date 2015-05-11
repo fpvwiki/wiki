@@ -10,7 +10,7 @@
 
 ## Guides
 
-* [SN20A BLHeli Instructions](http://www.rcgroups.com/forums/showpost.php?p=31286150&postcount=340)
+* [SN20A BLHeli Instructions](http://www.rcgroups.com/forums/showpost.php?p=31286150&postcount=340) ([[local copy|/uploads/SN20A BLHeli Instructions.pdf]])
 
 ## Pinout
 
