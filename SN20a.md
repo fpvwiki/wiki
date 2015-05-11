@@ -15,3 +15,11 @@
 ## Pinout
 
 [[/uploads/DYS_RCTimer_SN20a_pinout.jpg]]
+
+## Videos
+
+### SN20A ESC How to Flash BLHeli ESC Linker/Arduino Nano
+
+<<YouTube(PPzfNG9WVk4)>>
+
+> ... this is a full video showing how to flash the new mini SN20A ESCs with the latest version BLHeli firmware and allowing compatibility for OneShot125/active braking and other fine tuning. Video is a bit long but shows how to use both ESC linker and Arduino Nano along with finding and downloading BLHeliSuite.
