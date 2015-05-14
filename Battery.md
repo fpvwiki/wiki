@@ -22,7 +22,10 @@ Each LiPo battery in RC hobby comes with three very important numbers on it:
 
 1. **mAh rating**. This is milliamperes per hour. This basically determines how much juice the battery. You can also guesstimate the size and weight because larger MAH means physically larger battery.
 2. **Number of cells**. Each cell in a LiPo battery is 3.7V and a 2 cell battery is 7.4V, 3 cell is 11.1v and so on.
-4. **C rating**. This is the most mysterious one of them all and alot of people are generally confused here.
+4. **C rating**. This is the most mysterious one of them all and alot of people are generally confused here. Below is the list of essential articles you should read to understand the C rating:
+
+  * [The variable C and how it applies](https://sites.google.com/site/tjinguytech/charging-how-tos/the-variable-c)
+  * [How To Correctly Size Your Batteries](http://www.modifiedrc.com/how-to-correctly-size-batteries/)
 
 ## Picking The Right Battery C Rating
 
@@ -35,6 +38,7 @@ Each LiPo battery in RC hobby comes with three very important numbers on it:
 
 * [LiPo Storage Voltage, Dead Battery Recovery and Disposal information](http://www.rcgroups.com/forums/showthread.php?t=1074181)
 * [Battery Load Test Comparisons](http://www.rcgroups.com/forums/showthread.php?t=1767093) - a bit of an old thread from 2012 showing how in-depth people get about their batteries :)
+
 ## Video Guides
 
 ### Parallel Charging
