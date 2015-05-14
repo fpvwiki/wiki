@@ -1,5 +1,13 @@
 # Communities
 
+[[_TOC_]]
+
+## Informative Sites
+
+* [TJinTech](https://sites.google.com/site/tjinguytech) is filled with amazing info like [wiring](https://sites.google.com/site/tjinguytech/connectors) diagrams, [C rating explanation](https://sites.google.com/site/tjinguytech/charging-how-tos/the-variable-c) and much, much more.
+* [Oscar Liang](http://blog.oscarliang.net/) updates his blog pretty frequently with great in-depth articles.
+* [ModifiedRC](http://www.modifiedrc.com/) has a ton of good reviews.
+
 ## Forums
 
 Most active RC and FPV forums:
