@@ -38,6 +38,7 @@ Each LiPo battery in RC hobby comes with three very important numbers on it:
 
 * [LiPo Storage Voltage, Dead Battery Recovery and Disposal information](http://www.rcgroups.com/forums/showthread.php?t=1074181)
 * [Battery Load Test Comparisons](http://www.rcgroups.com/forums/showthread.php?t=1767093) - a bit of an old thread from 2012 showing how in-depth people get about their batteries :)
+* [Parallel LiPo Charging - The Faster & Safer Way To Charge](http://www.rchelicopterfun.com/parallel-lipo-charging.html)
 
 ## Video Guides
 
