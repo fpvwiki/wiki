@@ -24,10 +24,10 @@ Each LiPo battery in RC hobby comes with three very important numbers on it:
 2. **Number of cells**. Each cell in a LiPo battery is 3.7V and a 2 cell battery is 7.4V, 3 cell is 11.1v and so on.
 4. **C rating**. This is the most mysterious one of them all and alot of people are generally confused here. Below is the list of essential articles you should read to understand the C rating:
 
-  * [The variable C and how it applies](https://sites.google.com/site/tjinguytech/charging-how-tos/the-variable-c)
-  * [How To Correctly Size Your Batteries](http://www.modifiedrc.com/how-to-correctly-size-batteries/)
-
 ## Picking The Right Battery C Rating
+
+* [The variable C and how it applies](https://sites.google.com/site/tjinguytech/charging-how-tos/the-variable-c)
+* [How To Correctly Size Your Batteries](http://www.modifiedrc.com/how-to-correctly-size-batteries/)
 
 ## Tools & Accessories
 
@@ -59,3 +59,15 @@ When charging batteries SAFETY is critical. The usual precautions apply:
 ### Recovering Dead LiPo Battery
 
 <<YouTube(ti53wyRd3Ig)>>
+
+### An alternative to using 6S lipos
+
+<<YouTube(exNJh-NGI4I)>>
+
+> If you have a 6S lipo and one of the cells fail you could end up throwing away 5 perfectly good cells when you dump the pack.
+>
+> An option to using expensive 6S lipo packs is to simply wire two 3S packs in series like I show in this video.
+
+### Connecting LIPO batteries in series or parallel
+
+<<YouTube(_dvjGIo4gQc)>>
