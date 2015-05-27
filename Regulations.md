@@ -22,3 +22,6 @@
 * [Know Before You Fly](http://knowbeforeyoufly.org/) is a very good resource for general guidelines.
 * [No Fly Zone](https://www.mapbox.com/drone/no-fly/)
 * [Operation and Certification of Small Unmanned Aircraft Systems](http://www.regulations.gov/#!documentDetail;D=FAA-2015-0150-0017)
+* [Understanding The FCC Regulations for Low-power, Non-licensed Transmitters](https://transition.fcc.gov/Bureaus/Engineering_Technology/Documents/bulletins/oet63/oet63rev.pdf)
+* [FCC Part-15 Rules: Unlicensed RF Devices](http://www.arrl.org/part-15-radio-frequency-devices)
+* [FCC Part-97 Rules of the Amateur Radio Service](http://www.arrl.org/part-97-text)
