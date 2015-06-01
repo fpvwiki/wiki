@@ -71,6 +71,7 @@ These vendors generally ship world-wide from China based warehouses.
 
 * [Bang Good](http://www.banggood.com)
 * [Best Hobby Mall](http://www.besthobbymall.com/)
+* [China Hobby Line](http://chinahobbyline.com/) (LiPo focused vendor with US warehouses)
 * [RC Fans 88](http://www.rc-fans88.com/)
 * [Surveil Zone](http://www.surveilzone.com/)
 
